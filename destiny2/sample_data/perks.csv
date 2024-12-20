@@ -1,0 +1,1421 @@
+"id","name","description","icon"
+2154191829,"Carbon Arrow Shaft","Light and stable shaft material. 
+  •  Increases stability","d9e1105b539034b94a2f195245860893"
+2167611941,"Reverberation","Final blows with this weapon increase the size of its detonations for an improved duration.","64edcfb23da95e960fef8fd749b993a1"
+2171805903,"Perpetual Loophole","Deal additional melee damage while protected by an overshield. Defeating targets with melee final blows while the overshield is active will refresh it.","ad93d01f093c2ab16ee73e164432ae21"
+2172504645,"Sleight of Hand","Final blows with weapons or abilities while this weapon is stowed increase its handling, stability, and reload speed for a short duration.","1834dab52e88116f0d0cd0eea54cc0ce"
+2173046394,"Voltshot","Reloading this weapon after defeating a target overcharges this weapon for a short period of time, causing it to jolt on its next hit.","a71ffb1cb221ea64fa77ab473f8a3a61"
+2179914730,"Banshee's Wail","[Block]  : Hold to rev the blade.
+ • Increases damage and adds [Shield-Piercing] shield piercing to all attacks.
+ • Gain stacks when dealing damage with revved attacks.
+ • Additional stacks increase the damage and damage resistance of heavy attacks.","3a2fe8c1bd3fa1219922bf180b8e96e8"
+2186532310,"Poison Arrows","Arrows fired quickly after a full draw become poison arrows. Precision hits with poison arrows stun the combatant and spread poison to nearby ones. Strong against [Disruption] Overload Champions.","d60d43b909df85aa3e938bc3a1ad1792"
+2189829540,"Adaptive Frame","A well-rounded grip, reliable and sturdy.","967fb4abc6ab98f74639d6c08e5f56ee"
+2193118393,"Longview SLR10","Balanced scope. Medium zoom. 
+  •  Increases range
+  •  Slightly increases handling speed","0f24c75b8394323828121555ea91fd7a"
+2193118396,"Ambush SLH25","Agile, snappy scope. Short zoom.
+  •  Increases handling speed
+  •  Slightly increases range","0f24c75b8394323828121555ea91fd7a"
+2193118397,"EagleEye SLR20","Powerful scope. Long zoom. 
+  •  Greatly increases range
+  •  Decreases handling speed","aecf48beb487fabd9031ec87443b3c25"
+2193118398,"Shortgaze SLH10","Thin-lens scope. Short zoom. 
+  •  Greatly increases handling speed","0f24c75b8394323828121555ea91fd7a"
+2193118399,"Longview SLR20","Strong optics. Long zoom.
+  •  Increases range","0f24c75b8394323828121555ea91fd7a"
+2200569208,"Eyes on All","This weapon is capable of tracking and firing at multiple targets simultaneously.","851a3c5244f947a14d2a603e3b92bc4f"
+2209280306,"IS 5 Circle","Circular iron sights. Short zoom. 
+  •  Greatly increases handling speed","f0e645d8798c4547c7362bddaee24672"
+2209280307,"IS 2 Classic","Rugged and simple iron sights. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","f0e645d8798c4547c7362bddaee24672"
+2209918983,"Turnabout","Using this weapon to break the shield of a combatant or a Guardian using their Super will grant you an overshield.","02786692ea8de976f059b01b4450a67e"
+2213355989,"High-Impact Reserves","Rounds at the end of the magazine deal more damage.","33ed859a08f2ccf643a1ac3c7f201966"
+2213377102,"MIDA Synergy","Superb handling. Move faster with this lightweight weapon equipped. This weapon grants additional speed benefits when MIDA Multi-Tool is also equipped.","d8d316f540b241ebab16b4c9a6e73d18"
+2216471363,"Disruption Break","Breaking a combatant's shield with this weapon makes them more vulnerable to Kinetic damage for an improved duration.","45b57ce27fa0213218c7cb8f2253c517"
+2217963031,"Shot Swap","Final blows build and store charges which allow you to swap and stow this weapon at an additionally improved rate.","ea9fceb6c5d83d5f6f0ccdbe47ce13db"
+2223914385,"Thunderer","This weapon's rate of fire is increased significantly, and fires full auto.","7ae54854599faf75411a55a621a0c4ed"
+2224838837,"Unstoppable Force","Blocking damage with your shield increases projectile damage for a short time.","651350c3d18f7686aa911745424adce0"
+2226793914,"Guidance Ring","Precision hits and final blows build Guidance Ring energy. Opposing Guardians grant additional energy. At full charge, hip firing creates a Guidance Ring.","59743510eecdd1b4727200eac9fbece3"
+2238035098,"Storm and Stress","Kills with Drang reload this weapon and overflow a bonus damage round into the magazine.","f2ae02abd5241a1b799a2f26b1c85e0f"
+2241043034,"Close to Melee","Glaive projectile final blows improve Glaive melee damage for an improved duration. Glaive projectile or melee damage extends the duration.","80eb44e8ea45a374db9fffe497d8b345"
+2244851822,"Flash Counter","Melee blocked immediately after guarding disorients and weakens the attacker.","fb749a0428f9b1a7296d3671425264f9"
+2261491232,"Pyrotoxin Rounds","Fires high-powered explosive ammunition.","66cbafffadc63a73e1f4c36bde03d5fc"
+2272927194,"Perfect Float","Being in combat for a moderate time increases airborne effectiveness and reduces flinch until you are out of combat.","4b84679efdbd9bf21d23c5e8e6516e5f"
+2275087323,"Explosive Light","Picking up an Orb of Power increases the next projectile's blast radius and damage. Increases the stack count limit.","a19132880fae832711f474218e791d21"
+2282937672,"Bipod","Increases Rocket Launcher ammo and reserves, but reduces damage. Blast radius and reload speed are slightly reduced.","19c5d3e535cb27fbd4f037b024c165d7"
+2284787283,"Clown Cartridge","Reloading this weapon randomly overfills it from reserves.","794d65813703324c653878def082ca66"
+2287699930,"Broadhead","Piercing arrowhead that damages the target on entry and exit. One shot can overpenetrate multiple targets.","c27c59d81173c75afae0832fbac9151e"
+2298656195,"Circle of Life","Rapidly healing allies grants this weapon a period of increased damage.","b2ea38d2727dcf5a7ef7e2a0a25d4621"
+2306441428,"Supercharged Battery","Collecting an Orb of Power grants a period of maximum power that starts with an automatic reload. Sustained fire in this mode suppresses targets.","e6f4ca6a4af266e955b005514ac8cfab"
+2307143135,"Harsh Truths","This weapon fires a 5-round burst. When a nearby ally is killed, gain health regeneration and increased movement speed.","e7d71eb1545a7464e60c848250bec332"
+2308090567,"Field Prep","Greatly increased ammo reserves. Improved faster reload, stow, and ready when you're crouching.","4ee1ecaead6fe2de1a2cab07f8b7be3f"
+2319119708,"High Ground","Final blows with this weapon grant stacks of bonus damage. Attacking targets from higher ground immediately grants the maximum number of stacks.","5ee6f65d7af0a9acf6f22e3254e85283"
+2333607307,"Impetus","Reloading immediately after a kill increases weapon damage for a short time.","534cb3d60aae6e5d3e5fc067e0fa58cb"
+2349202967,"Heavy Guard","Sword Guard has high overall defenses, but lowers charge rate.","6ec0f787c192f27f4039140af9be1af9"
+2353477480,"Rapid-Fire Frame","Deeper ammo reserves. Slightly faster reload when magazine is empty.","801d62d1f9783bee81d5700c54c24fda"
+2360754333,"Trench Barrel","After a successful melee hit, this weapon gains increased damage, handling, and reload speed for a short duration—or until three shots are fired.","44f1e50b0d6629fc2f08bc7067ce011b"
+2363751990,"Infinite Guard","Sword Guard has balanced defenses and maximized endurance.","6aef1709498dad9c61e2d85874f34c8b"
+2379536009,"Remote Shield","[Alternate Weapon Action]  : When weapon energy is full, consume it before firing to make your next shot deploy a protective shield on impact. Passing through the protective shield provides a Void Overshield and improves weapon damage, reload speed, and handling.","74becd5fc67ed24c152e838b73cd5eef"
+2383960413,"Cruel Remedy","Kills with this weapon heal the wielder. Precision kills also refill the magazine.","06c295c5e4f7604c1f2ae3914d9a3ba5"
+2387244414,"Zen Moment","Causing damage with this weapon reduces recoil and flinch over time.","9650a58cd3a439bf3b53a53dbc8122a0"
+2395713912,"Umbral Sustenance","This weapon's magazine is automatically reloaded when you gain Devour, a Void overshield, or become invisible.","4bcd6ba34decb320ea9f9ecabf6a9b1c"
+2396422520,"Slideways","Sliding partially reloads this weapon's magazine and temporarily boosts handling and stability greatly.","531db7656c3f2ed054898e141d85b801"
+2396489472,"Chain Reaction","Each final blow with this weapon creates an elemental damage explosion.","d17a60978288581d13a4aab6b9fc2b0e"
+2399646028,"Leviathan's Sigh","When fully drawn, the bolt creates a large concussive blast that knocks combatants back and makes them volatile.","187c5049048eba567af9459dbffed7ce"
+2402480669,"Focused Fury","Dealing half of the magazine as precision damage grants this weapon bonus damage for an improved duration. The shot count is reset whenever the weapon is reloaded or stowed.","15fb47018719c99ae37d10f794bc957e"
+2405598968,"Vestigial Alchemy","This weapon gains energy when you pick up Vestiges and allows you to create ammo at the projectile impact point for you and your allies. Special ammo mode unlocks at 50% energy, while Heavy ammo mode unlocks at 100% energy. 
+
+To transform Vestiges into Special ammo, [Alternate Weapon Action]  and cycle through all available firing modes. 
+
+To transform Vestiges into Heavy ammo, [Alternate Weapon Action]  and cycle firing modes a second time.","5f843adf242458d9b797f055454025f2"
+2405638014,"Red Dot Micro","Agile sight. Short zoom. 
+  •  Increases range
+  •  Increases handling speed","e43da5dcb1d2a05616be6f695eede7a1"
+2405638015,"Red Dot 2 MOA","Snapshot sight. Short zoom. 
+  •  Slightly increases range
+  •  Increases handling speed","e43da5dcb1d2a05616be6f695eede7a1"
+2410284308,"TrueSight IS","Light, flexible sight. Short zoom. 
+  •  Increases range
+  •  Increases handling speed","8624b5c2c44539d0b9416f210e43a2b2"
+2410284310,"Fastdraw IS","Lightweight sight. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","8624b5c2c44539d0b9416f210e43a2b2"
+2410284311,"Quickdraw IS","Agile sight. Short zoom.
+  •  Greatly increases handling speed","8624b5c2c44539d0b9416f210e43a2b2"
+2414725840,"Satou Focus Lens","Far scope. Long zoom. Highlights enemy targets.
+  •  Increases range
+  •  Slightly increases handling speed","95eafdb9c039fad9c0925d82cd86243f"
+2414725841,"Satou Precision Lens","Precision scope. Long zoom.
+  •  Greatly increases range
+  •  Decreases handling speed","db1ac214d85f19dcd07a41fd8f5a9e94"
+2416023159,"Offhand Strike","Final blows grant additional weapon range, stability, and accuracy when firing from the hip for a short duration.","599d73ea677633784655fc4161327c14"
+2420895100,"Extended Mag","This weapon has a greatly increased magazine size, but reloads much slower.
+  •  Greatly increases magazine size
+  •  Greatly decreases reload speed
+  •  Increases airborne effectiveness","66cfea124e24e73cca1ce6370b44ca7e"
+2422968039,"Adrenaline Junkie","This weapon gains increased damage and handling from final blows with grenades or this weapon for an improved duration.","6f8bde03140b53e6dc583ada1aeaa51d"
+2428997981,"Permeability","Using your class ability changes this weapon's damage type to match your equipped Super until you stow the weapon.","8b9d5337822da200425e0422b7376c24"
+2440389870,"Composite Propellant","Rockets embed themselves in struck targets and periodically eject incendiary fuel that inflicts Scorch. The longer this weapon goes without firing, the more fuel the next rocket contains.","11bb35aced31adb1ccb493800ac8833e"
+2450788523,"Killing Wind","Final blows grant increased mobility, weapon range, and handling for a short duration.","db2aa71ff6d808929bb0e668dcf0822e"
+2451262963,"Fragile Focus","This weapon gains bonus range until your shield is destroyed. The bonus returns once your shield has regenerated to full strength.","3d2e945cc3d38e88c87ee3e2687b612a"
+2458213969,"Multikill Clip","Reloading grants increased damage based on the number of rapid final blows made beforehand.","3749921a74a378259228d5e989459311"
+2459015849,"Trench Barrel","After a successful melee hit, this weapon gains increased damage, improved handling, and improved reload speed for a short duration—or until three shots are fired.","44f1e50b0d6629fc2f08bc7067ce011b"
+2467967826,"Chambered Compensator","Stable barrel attachment.
+  •  Increases stability
+  •  Moderately controls recoil
+  •  Slightly decreases handling speed","0b451cbccc7f11f6aec9c153e59474cb"
+2473404935,"Mad Scientist","This weapon fires a volley of rockets.","37b8b2948487e3cd7b912e07ebaa1059"
+2476672792,"Threat Remover","Dealing damage with nearly all pellets in a spread increases reload speed, handling, and stability.","d6a5171d8bec7c818783f3e7b1b6426b"
+2482418662,"Longest Winter","Periodically generates Ionic Traces while in its high-damage state.","dc14d2cc3f34c60b114955332a733d56"
+2491817779,"Prototype Trueseeker","This weapon's rockets have tracking. Lock onto targets when aiming down sights.","d6ab4dfeca0531e5494aed4cc2d76c2c"
+2495011826,"Ensemble","Substantially improved handling and reload speed when allies are nearby.","421d6325598857bc63c1df0f25607cde"
+2503665585,"Empty Traits Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+2516532331,"Arc Conductor","When taking Arc Damage, this weapon becomes more powerful and resists incoming Arc Damage. Kills extend the time in this overcharged state.","a4961c9b9db1aa3e14cc4953d497bbce"
+2518716062,"Aggressive Frame","High damage, moderate charge time. Fires a horizontal volley.","5c4c7b8c580a97ede3981eceefb63540"
+2529412083,"Blunt Execution Rounds","Damaging nearby combatants with melee abilities dramatically increases handling and damage. Expires after an improved short duration or the next shot.","bf4f14c413c7dd2d84e028c5a39f0902"
+2540536653,"Ravenous Beast","This weapon stores power when dealing or receiving damage.
+[Alternate Weapon Action]  : Unleashes the beast when full, increasing outgoing damage and reducing incoming Solar damage.","b948a2cbfdadce05ba0abfea7ccc61bc"
+2541826827,"Repulsor Brace","Defeating a Void-debuffed target grants an overshield that lasts for an improved duration.","cfcbde3872d34c5258fd8227640a020e"
+2551157718,"Box Breathing","Aiming this weapon for a short period without firing grants bonus range and precision damage that resets after firing or exiting zoom.","ef9c0dbddcb4c51fe5d3768e26b73746"
+2557881346,"Vortex Frame","[Heavy Attack]  : Launch a heavy spin attack.
+Heavy attacks are stronger with full energy.","23e50e126159f0f22983f73d6a246f0d"
+2562668800,"Collective Action","Collecting elemental pickups or throwing a Strand Tangle grants a longer initial period of increased damage, and an improved stacking period of increased damage.
+
+Elemental pickups include Firesprites, Void Breaches, Stasis Shards, Ionic Traces, and Strand Tangles.","901c6420954a4e60fc8a521960f556a8"
+2564164194,"Compounding Force","Fires slugs that cause massive damage to combatant shields. Strong against [Shield-Piercing] Barrier Champions.","de617622ec896db7e2e79a2b2cdcb24e"
+2570477205,"Multikill Clip","Reloading grants increased damage based on the number of rapid final blows made beforehand for an improved duration.","3749921a74a378259228d5e989459311"
+2571259936,"Compressed Wave Frame","Projectiles release a wave of compressed energy when they contact the ground.","00c13147258a00b339f472516328267f"
+2578928832,"Rewind Rounds","When this weapon's magazine is empty, it refills from reserves based on the number of hits.","a201fd61905b802867b677cf927e6e04"
+2578928833,"Headseeker","Body shots landed with this weapon increase precision damage and aim assist for a short time. Body shots landed while the perk is active refresh the time.","bdca577f8850f3c6168e9bc055019934"
+2578928835,"Rapid Hit","Rapid precision hits temporarily increase stability and reload speed.","de22847fa94634a487758041887bcdaa"
+2579169598,"Lone Wolf","Slightly improves aim assist, aim down sights speed, and airborne effectiveness. Increases these effects when there are no nearby allies.","4c244b847778a484726543e5c35935ef"
+2585427437,"Traitor's Vessel","Fires a wide horizontal spread when shot from the hip.
+Final blows with this weapon have a chance to generate Ionic Traces. Powerful foes and opposing Guardians always generate Ionic Traces.","874117e5281d47fee9db7109d49ce2b3"
+2586829431,"Shot Swap","Final blows build and store charges which allow you to swap and stow this weapon at a faster rate.","ea9fceb6c5d83d5f6f0ccdbe47ce13db"
+2590710093,"Tireless Blade","Sword ammo granted for every other powered sword kill.","d597ced6ce0812d168ce86b31eaaeb03"
+2594592626,"Controlled Burst","Landing every shot in a burst grants this weapon increased damage and reduced charge time for a short duration.","9fd6e7728f412a69a653e5b49d752895"
+2608508147,"Heavy Slug Thrower","[Aim Down Sights]  : Spins up this weapon. This weapon can be fired only when fully spun up.","f927198102dc3ae4ec25bf9846d4e535"
+2610012052,"Golden Tricorn","Final blows with this weapon grant bonus damage. While this buff is active, grenade or melee kills of the same damage type greatly increase its damage and duration.","8ad63f37f2513f56892e0ed20621f5dc"
+2617553311,"Rimestealer","Destroying a Stasis crystal or defeating a frozen target with this weapon grants you an improved amount of Frost Armor.","b88380f8b364c2743d53f12d4d98e273"
+2620589274,"The Fundamentals","[Alternate Weapon Action]  : Changes this weapon's damage type, cycling between Solar, Arc, and Void. Grants different stats based on your selected damage type.
+
+Solar - Increases reload speed and aerial effectiveness.
+Arc - Increases handling and range.
+Void - Stability and aim assist.","ecba89a4707a99a228d831d956042511"
+2621346526,"Ensemble","Improved handling and reload speed when allies are nearby.","421d6325598857bc63c1df0f25607cde"
+2622129339,"Support Frame","Flexible and agile frame capable of healing allies and hurting foes. Harming targets builds a restorative charge.
+
+Hip firing at allies while this weapon is charged heals them, with rapid healing increasing weapon damage and bestowing restoration to your allies.","922b3354dd900848ecf72bcf9e1ae022"
+2635532173,"Accurized Rounds","This weapon can fire longer distances.
+  •  Increases range","d85024478504205359c7fb52dbc4f6b6"
+2636679416,"Hail Barrage","Final blows with this weapon grant Stasis arrows. Your next hip-fire shot will fire all of them in a single volley.","0ed53c6078abceb7bf6505726b1c8cd4"
+2641107734,"Unrepentant","Reloading after defeating a target causes the next burst to be a longer, more powerful superburst.","ca5ce2f7c5c12176a901a32638e1a322"
+2652708987,"Successful Warm-Up","Each final blow increases charge/draw speed.","86e2c776ad294730c87b0ef0f150a748"
+2655147888,"Snareweaver IV","Precision hits and final blows build energy towards a Snareweaver arrow that can be fired from the hip. On impact, Snareweaver arrows create a pattern of traps that suspend nearby targets.","4061fbc69bad26a23b8be567b8f2ed1e"
+2655147894,"Snareweaver II","Precision hits and final blows build energy towards a Snareweaver arrow that can be fired from the hip. On impact, Snareweaver arrows create a pattern of traps that suspend nearby targets.","4061fbc69bad26a23b8be567b8f2ed1e"
+2655147895,"Snareweaver III","Precision hits and final blows build energy towards a Snareweaver arrow that can be fired from the hip. On impact, Snareweaver arrows create a pattern of traps that suspend nearby targets.","4061fbc69bad26a23b8be567b8f2ed1e"
+2656694271,"Swooping Talons","Dealing damage while airborne increases this weapon's damage output.","c37583c0d96cc0dcaaa158069b58814d"
+2658083589,"Surplus","Substantially increases handling, reload speed, and stability for each fully charged ability.","a4c054c3547840300b9ce7ef11b7b6fc"
+2662236651,"Archer's Gambit","Hipfire precision hits grant a massive draw speed bonus for an improved duration. Further precision hits extend the duration.","3564fd36f6fabba7557de4df20e00cb3"
+2675184851,"Incandescent","Defeating a target spreads a longer lasting scorch to those nearby.
+More powerful combatants and opposing Guardians cause scorch in a larger radius.","22ed4a2cd5a0eb129a14ce77db49373f"
+2675361166,"Wellspring","Final blows with this weapon generate an improved amount of ability energy. This energy is divided between your uncharged abilities.","ec2e3096ebd447bd6137735c9067b991"
+2679249093,"One-Two Punch","Hitting an enemy with every pellet in a shot increases melee damage for a short duration.","013a56db7dc9c3f89012a381f601a4ff"
+2680121939,"Enhanced Battery","Strong battery life.
+  •  Increases magazine size","0ee59b61e99c52c85c2ea18ab705f700"
+2682205016,"Overflow","Picking up Special or Heavy ammo loads this weapon even further beyond normal capacity.","3165fec56b59363fa974a11f5730f4ec"
+2713678205,"Low-Impedance Windings","Improved output efficiency.
+  •  Increases shield duration
+  •  Slightly increases reload speed
+  •  Decreases range","d8b1d1ce11135074d7448314b0381356"
+2717805783,"Moving Target","Increased movement speed and improved target acquisition when moving while aiming down sights.","40b591eae7f122fdf1cfca21fc6f6c0f"
+2720533289,"Magnificent Howl","The number of precision final blows before reloading affects the total rounds granted with increased range and damage. Precision final blows with Magnificent Howl active extend the effect for additional rounds.","986aeac26e30b3d5509e83f10a953da7"
+2724693746,"Touch of Malice","The final round in the magazine deals bonus damage, drawing from the wielder's life force, and then regenerates itself. Rapidly defeating 3 targets restores health. Guardians and powerful combatants count as more than one defeated target.","c05e57ebabbfd46b0788d9cbb45a5510"
+2726471870,"Thresh","Killing combatants with this weapon generates a small amount of Super energy.","7f9dcf3bd4a8a4e0d2d0922827f038c9"
+2727957645,"High Octane","Igniting nearby targets partially replenishes fuel. This weapon refills itself from reserves upon gaining maximum fuel.","74adaa8bd374d4b76f5282d1c4786c6b"
+2732913576,"Red Dot-OAS","Accurized sight. Medium zoom.
+  •  Increases range
+  •  Slightly increases handling speed","e43da5dcb1d2a05616be6f695eede7a1"
+2732913578,"Red Dot-ORS","Snapshot sight. Short zoom. 
+  •  Slightly increases range
+  •  Increases handling speed","e43da5dcb1d2a05616be6f695eede7a1"
+2732913579,"Red Dot-ORS1","Agile sight. Short zoom. 
+  •  Increases range
+  •  Increases handling speed","e43da5dcb1d2a05616be6f695eede7a1"
+2733244971,"Trinary Vision","One-shot handheld Grenade Launcher. Projectiles release a fan of three energy waves on contact with the ground.","a513ecb3fc543444e73f99e1f5ab186b"
+2741975068,"Slug Rifle","This weapon lobs explosive slugs. When you're aiming down sights, the slugs travel fast and straight. When you're firing from the hip, the explosion is larger and applies Scorch to the target.","8ef7b7a6bb98a9286908425ce650afa3"
+2748258257,"Heating Up","Final blows with this weapon increase accuracy and stability while improving vertical recoil for a longer duration.","39d2032b3c5bc7a5b2fe391c64ccb7db"
+2748801589,"Harmony","Final blows with other weapons improve this weapon's damage and performance for an improved duration.","0a3c1c5e1cb05adef7cf6af6602a0da0"
+2749775325,"Light Battery","Lightweight, agile battery.
+  •  Increases handling speed
+  •  Increases reload speed","006ff9fe30b0ef0309b499f364803b6b"
+2751656639,"M1R Distribution Matrix","Fires a spread. Equipped with a quick-draining shield. Blocking damage with your shield gradually bestows Void overshields to yourself and nearby allies.","8f2a67b712b70195e7d5b5fc46e249fd"
+2753228730,"Lightweight Frame","Fast movement.
+[Heavy Attack]  : Dash attack.","6db8cd21c2b3e6fffeb6f111d6c70dd2"
+2757685314,"Aggressive Frame","High damage, high recoil. Optimized for long-distance shooting.","5c4c7b8c580a97ede3981eceefb63540"
+2767894946,"Paracausal Beam","Fires a beam of Kinetic light, dealing massive bonus damage to shields.","e393126db4d742ed7ca1b24482f60515"
+2769013282,"Property: Undecidable","This [weapon|instrument|topology] adapts its damage type to match your equipped grenade. Final blows grant grenade energy.","8c1eb879e152cd98b93ac6e689097131"
+2770223582,"Fan Fire","This weapon fires full auto. Hip-fire shots deal bonus precision damage while increasing reload speed and accuracy.","c83ad077da38bec742c473892a5e4dca"
+2779035018,"Feeding Frenzy","Each rapid kill with this weapon progressively increases reload speed for a short time.","89d7e65f5ebe8d291ea96f128765921d"
+2782457288,"Killing Tally","Kills increase this weapon's damage until it is stowed or reloaded.","a64f5d3e972ea35b1789f62999235083"
+2785334058,"Eddy Current","Temporarily increases reload speed and handling after sprinting or while amplified; increased reload speed and handling have a longer duration. This effect is significantly improved when you are amplified.","e0f3c00a8b2cbccb8f1f1b318026aeee"
+2795311559,"Pace Yourself","Tapping the trigger gives this weapon less recoil and improves accuracy.","ee5bed70c245ea3caa23bef01b747104"
+2799030358,"Desperate Measures","Weapon final blows grant bonus damage for an improved duration. Melee and grenade final blows grant a larger damage bonus that can stack.","25692d31f4963c07c3a82aba508b52b6"
+2799667909,"Silkbound Slayer","This weapon deals bonus damage to suspended targets. Gain faster draw time for a short duration when you suspend a target from any source or damage a suspended target with this weapon.","2096c2a2431760eb26fd0215682b5809"
+2801223209,"Elastic String","Excellent snapback.
+  •  Decreases accuracy
+  •  Faster draw time
+  •  Slightly increases handling speed","7ac5f641c349090716f486180d57b0af"
+2804762401,"Regenerative Motion","Sprinting gradually reloads this weapon.","af9f5566c5765b4b4ea001d3014d4397"
+2814973067,"Markov Chain","This weapon gains increased damage from melee kills and kills with this weapon. Melee kills grant ammo for this weapon.","c7b8d436124eb54d18afd3ca01d195bd"
+2817499044,"Envious Arsenal","Dealing damage with both other weapons before readying this weapon refills it from reserves. Increases ammo reserves.","234bcd9dc9f5e3ec850a8eac748afbde"
+2822142346,"High-Velocity Rounds","This weapon's projectiles are particularly light and quick.
+  •  Increases projectile speed
+  •  Increases reload speed","2a2b757cd73305126990cd19ad011a2c"
+2827049491,"Honed Edge","Increased sword damage.","8390e18bed6857847be890f4d07a9583"
+2840833776,"Shoot to Loot","Shooting an Orb of Power picks it up. Shooting an ammo brick picks it up and automatically reloads all of your equipped weapons from reserves. Increases range.","e8c6e23afe3c4215f0dc0c2941500c28"
+2846385770,"Rangefinder","Aiming this weapon increases its effective range and zoom magnification. Increased projectile velocity while aiming Rocket Launchers, Grenade Launchers, and Bows.","74270d52bec24f1f5f4c987f5f37fce9"
+2848175214,"Ice Breaker","Defeating a target with this weapon causes them to explode. Precision final blows or shattering a frozen target instead triggers an ignition.","1de2030a580f54e34b3282df37ac9cd5"
+2848615171,"Dragonfly","Precision kills create an elemental damage explosion.","c87b03bb6d56b393f8582e128b337332"
+2856365672,"Energy Transfer","Guarding while receiving damage generates class ability energy at an improved rate.","dd7cb12c5aa30d4027c04be8c66f67e2"
+2859149211,"Beacon Rounds","Final blows with this weapon grant your projectiles tracking and increase reload speed. Dealing further damage extends the duration.","53b269a1760611b75170abde8ff1032c"
+2860991074,"Flash Counter","Melee blocked immediately after guarding disorients and weakens the attacker. Ammo reserves increased.","fb749a0428f9b1a7296d3671425264f9"
+2866798147,"No Distractions","Aiming this weapon for a short period reduces flinch.","3f6534e7fd934e0ecfeb1cac9da9c97f"
+2869569095,"Field Prep","Increased ammo reserves. Faster reload, stow, and ready when you're crouching.","4ee1ecaead6fe2de1a2cab07f8b7be3f"
+2870095399,"Thermoplastic Grenades","Grenades fired from this weapon bounce further. 
+  •  Increases stability 
+  •  Increases projectile speed","7719ee208d63dc5311f8d08d11baa463"
+2874284214,"Aggressive Burst","Hard-hitting four-burst fire.","5c4c7b8c580a97ede3981eceefb63540"
+2881100038,"Lagrangian Sight","This weapon marks targets with an automated targeting system. Final blows on marked targets generate a telemetry pattern. Collecting 3 telemetry patterns without dying grants this weapon bonus damage for a long duration.","2bc336a86133b99f54e284f86ddcea90"
+2888557110,"Full Court","Increases detonation damage as the projectile travels further before exploding.","b3153ac6eb5bc0315ef2d4c11c327a84"
+2889515627,"Adagio","After defeating a target, this weapon fires, charges, or draws more slowly and deals increased damage for an improved time.","b344c34bf750a840b24ff5d2f8fe4507"
+2896038713,"Focused Fury","Dealing half of the magazine as precision damage grants this weapon bonus damage. The shot count is reset whenever the weapon is reloaded or stowed.","15fb47018719c99ae37d10f794bc957e"
+2896748467,"Killing Tally","Final blows increase this weapon's damage until it is stowed or reloaded. Improves magazine size.","a64f5d3e972ea35b1789f62999235083"
+2898218424,"Air Assault","Final blows grant an improved stacking bonus to airborne effectiveness. Final blows while airborne grant increased stacks.","4c0ec089add62d58c6bb24387cde0bea"
+2898674457,"M1R Distribution Matrix IV","Fires a spread. Equipped with a quick-draining shield. Blocking damage with your shield gradually bestows Void overshields to yourself and nearby allies.","8f2a67b712b70195e7d5b5fc46e249fd"
+2898674462,"M1R Distribution Matrix III","Fires a spread. Equipped with a quick-draining shield. Blocking damage with your shield gradually bestows Void overshields to yourself and nearby allies.","8f2a67b712b70195e7d5b5fc46e249fd"
+2898674463,"M1R Distribution Matrix II","Fires a spread. Equipped with a quick-draining shield. Blocking damage with your shield gradually bestows Void overshields to yourself and nearby allies.","8f2a67b712b70195e7d5b5fc46e249fd"
+2904194311,"Withering Gaze","Aiming this weapon for a shorter period of time without firing grants the ability to weaken the next target. Timer resets after firing or when you stop aiming down sights.","ff3a789b729978880907dc5dc08b3793"
+2909403175,"Mortal Polarity","Precision final blows generate a lightning bolt at the target's location.","0790a72c1ce7597cd58a232d8f64d556"
+2911329003,"Grenades and Horseshoes","Projectiles will detonate when they are within close proximity of their targets.","384717724864a3665c401fd3c4ca2a95"
+2921090754,"Soul Devourer","Absorbing a Remnant strengthens Mark of the Devourer and partially refills the magazine.","90b51d68f4605116e7c1a7d29e2d155b"
+2923251173,"Kill Clip","Reloading after defeating a target grants increased damage for an improved duration.","0afd4799427004b2d8170ab213a2ef0c"
+2928496916,"Rocket-Assisted Frame","Sidearm fires self-propelled rocket ammunition. Projectiles explode on impact for high damage.","0362f949c16fe72358a5c7bb93be3f60"
+2938480696,"Rapid Hit","Rapid precision hits temporarily increase stability and reload speed substantially.","de22847fa94634a487758041887bcdaa"
+2939589096,"Target Lock","Damage increases by an improved amount the longer this weapon remains on a target.","72be46e05195a95ae1307a684f68456b"
+2940035732,"Wrath of the Colossus","Heavy slug launcher that charges, then fires full auto while the trigger is held.","25435e54bba83b9e877d6eaa45f8fa3d"
+2946784966,"Tunnel Vision","Reloading after defeating a target greatly increases target acquisition and aim down sight speed for a short duration.","ab0837be56c8d5cfc474acd4f3f9c7ac"
+2962361451,"Wolfpack Rounds","Rounds fired split into tracking cluster missiles upon detonation.","9581a5329d9eff75cb770180cc644ced"
+2963273944,"Master of Arms","Final blows with any weapon improve this weapon's damage for an improved duration.","fce1ea2064814689d7ca08a2acdb1d23"
+2965975126,"Screaming Swarm","Fires a stream of sentient, toxic projectiles that track the targeted enemy.","cbd704c7339e678a447f22a83bf67b61"
+2969185026,"Projection Fuse","Distance optimizations.
+  •  Increases range","eaa6fcec699a88e768782068d5e509e1"
+2976676960,"Command Frame","Fires extended-range, heavy-caliber projectiles at a reduced rate of fire. Deals increased precision damage when aiming down sights.","7e49ea5c8547243fbd5e5d8361bcacb4"
+2977709078,"Excavation","Grenades spawn cluster bombs upon detonation. Defeating targets creates Arc explosions.","2de42e7192359a2d5678d72c1d409f38"
+2978966579,"Chill Clip","Direct hits with the top half of the magazine cause a detonation that slows nearby targets.","ee011569c060e6aef51ad201cafdfd32"
+2980589453,"Physic","Rapidly healing allies grants restoration to you and your allies.","9fe1c3bf97d3b2df2c31c6c8cb5ad8b6"
+2984682260,"Full Stop","Oversized Sidearm with extended-range, heavy-caliber rounds. Fires full auto with increased rate of fire. Deals increased precision damage to unshielded targets.","500e3dd4b9c9d95901627d322faf9aa8"
+2985827016,"Alloy Casing","Reduces weight for faster reloads.
+  •  Greatly increases reload speed
+  •  Decreases stability","e02a542e5162c002112c21b6fdf2e86b"
+2997472817,"Osmosis","Using your grenade ability partially refills the magazine and changes this weapon's damage type to match your grenade until you stow it.","22ca6e872824561b12e91517e1bde608"
+3007133316,"Frenzy","Being in combat for an extended time increases damage, handling, and reload for this weapon for an improved duration until you are out of combat.","23e06f4ced1b3e6476f342978ff5bb37"
+3016987351,"Counterattack","Blocking an attack immediately after guarding increases damage for a short duration.","3a96a1a06bfeab461fd03b6d9fa9707f"
+3017780555,"Heal Clip","Reloading shortly after dealing a final blow grants Cure to you and your nearby allies.","3d0f2eb4c1e4f66f2bd897ec4d5ce4f1"
+3018146897,"Invisible Hand","Repeatedly missing targets increases this weapon's stability for a short time. This buff lasts for a short duration after a target is hit.","a309822ed9a0f590a4a3279f9f0d89c4"
+3024740338,"Edge of Intent","Hybrid melee/ranged polearm with a frontal shield.
+Generates energy on dealing ranged damage.
+
+[Aim Down Sights]  : Raise shield, depleting energy over time
+[Melee]  : Kinetic melee combo","3bcf21a3418ad21d1953199fd4a4ef44"
+3032599245,"Disorienting Grenades","Detonation has a brief disorienting effect. 
+  •  Greatly decreases blast radius","f31c68952868e70325b992a4783db908"
+3034060702,"Sacred Flame","Powered heavy attacks mark nearby targets, causing them to explode upon death.
+Striking marked targets with a Light attack detonates them.","18568884a55b52eaa946a8bea046a6b0"
+3038247973,"Explosive Payload","Projectiles create an area-of-effect detonation on impact.","31f02e5f3bae68ecdfdd3f899cf931c7"
+3042219245,"Magnificent Howl","The number of precision final blows before reloading affects the total rounds granted with increased range and damage. Precision final blows with Magnificent Howl active extend the effect for additional rounds. Improves reload.","986aeac26e30b3d5509e83f10a953da7"
+3047969693,"Desperado","Reloading after a precision final blow increases your rate of fire.","1c95bff6fa57919ab0f5547d1f107fad"
+3050799639,"Offhand Strike","Final blows grant additional weapon range, stability, and accuracy when firing from the hip for an improved duration.","599d73ea677633784655fc4161327c14"
+3054949324,"Shot Package","Aggressive frame Shotgun modified to have more uniform pellet spread.","385f8d4a171f2a1b208f1708292caaa9"
+3057124503,"Empty Magazines Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+3060983774,"Dynamic Sway Reduction","Rapidly improves accuracy and stability while continuously holding down the trigger.","36091de4dd029fb6e6ab95dbc612ff05"
+3063320916,"Primeval's Torment","Projectiles fired by this weapon blight the target or nearby area on impact.","5a7e7f35607e7525f4149176391657da"
+3074755706,"Empty Arrows Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+3078487919,"Bait and Switch","Deal damage with all equipped weapons within a short time to give this weapon a damage boost.","bc91e95edfbc9163dd88339a93b66913"
+3081173348,"The Fundamentals","[Alternate Weapon Action]  : Changes this weapon's damage type, cycling between Solar, Arc, and Void. Grants different stats based on your selected damage type.
+
+Solar - Increases reload speed and aerial effectiveness.
+Arc - Increases handling and range.
+Void - Stability and aim assist.","42abd767e4aee8540120ad1ec99bd348"
+3081867624,"Master of Arms","Kills with any weapon improve this weapon's damage for a short time.","fce1ea2064814689d7ca08a2acdb1d23"
+3096702027,"Genesis","Breaking a combatant's shield with this weapon fills its magazine from reserves. Energy weapons regenerate ammo on hit when matching the damage type to the combatant's shield.","087a911353a3586f5346a1cf88d8de05"
+3100590152,"MIDA Radar","Radar stays active while aiming down sights.","c28f178ee7a4925ee85a246429baa55f"
+3102670337,"Unstoppable Force","Blocking damage with your shield increases projectile damage for an improved duration.","651350c3d18f7686aa911745424adce0"
+3108830275,"Unrelenting","Rapidly defeating targets triggers health regeneration. Guardians and powerful combatants count as more than one kill.","1e5843177c71ae3f2a4770d01a2f3813"
+3117514172,"Stormbringer","Rapid precision hits create a lightning storm at the point of impact.","afc8965bf54f15b2b3edc7f538c797b8"
+3118144663,"Hip-Fire Grip","Greatly increases accuracy, stability, and precision hit targeting when firing from the hip.","e0265e60a4e29a96adf47a35b898fad4"
+3120212825,"Strategist","Final blows with this weapon generate improved class ability energy. Activating your class ability briefly improves this weapon's stability.","dc9057be28071222ed303d6baab3eb4f"
+3124871000,"Outlaw","Precision kills greatly decrease reload time.","382df469a091c33e190ee583b64923e8"
+3131590896,"Grenade Chaser","Landing multiple rockets loads a grenade. [Alternate Weapon Action]  to switch into Grenade Launcher mode.","aaae55e7a8b2f93c4a8f686f9c03745b"
+3142289711,"Accurized Rounds","This weapon can fire longer distances.
+  •  Increases range","d85024478504205359c7fb52dbc4f6b6"
+3143051906,"Dual Loader","Reloads two additional shots at a time.","628a238007fc97c4d4a85d0cd6933dba"
+3151536500,"SPO-28 Front","SUROS holo sights. Medium zoom. 
+  •  Increases range
+  •  Slightly increases handling speed","a286ae38e673cc4080717f52a075fd5d"
+3151536501,"SPO-57 Front","SUROS threat evaluation. Medium zoom. Highlights enemy targets.
+  •  Greatly increases range
+  •  Slightly decreases handling speed","184934c8054df2d4d66af49c04d09654"
+3151536503,"SPO-26 Front","SUROS lightweight red-dot sight. Short zoom. 
+  •  Increases handling speed
+  •  Increases range","5efdbf431c9b8bdddc9946ae45c108f8"
+3161816588,"Slideshot","Sliding partially reloads this weapon's magazine and temporarily boosts range and stability.","7d41765e3db3a77da5cce27888c52d87"
+3164944314,"Ager's Call","Final blows with this weapon generate a slowing burst around the defeated target.","ec537e86129aa6b161eb6c73bd1dba75"
+3172115769,"Protective Weave","Firing this weapon at an ally grants Woven Mail to both the user and the target.","dfd12f2a52c6af2e816eee9f74155910"
+3174300811,"Looks Can Kill","This weapon fires shield-piercing ammunition and comes with a scope. Strong against [Shield-Piercing] Barrier Champions. Breaking a matched shield or piercing a Champion's barrier will cause the target to ignite.","d29733f43d0b1a21ead3d19f36298f05"
+3177308360,"Steady Rounds","This magazine is optimized for recoil control.
+  •  Greatly increases stability 
+  •  Slightly decreases range
+  •  Increases airborne effectiveness","6c6e1cc341487a8afd0b0c714a229255"
+3183537623,"Corrupted Nucleosynthesis","This weapon enrages when dealing or taking sustained damage, gaining increased rate of fire while enraged.","6545c3df347e24e3a145247e70564fe0"
+3194351027,"Explosive Light","Picking up an Orb of Power increases the next projectile's blast radius and damage.","a19132880fae832711f474218e791d21"
+3198323828,"Keep Away","Significantly increases reload, range, and accuracy when no targets are in close proximity.","597cd0f1c5fe1f7681a1c129f8b958dd"
+3201496230,"Redirection","Damaging rank-and-file combatants increases damage against more powerful ones.","062243c2875d9bbdc29aa115e1e299c5"
+3208839961,"Four-Headed Dog","Shoots erratic bullets from all gun barrels at the same time.","4de9cb8fc9c1c4e6129c14a196b3ed73"
+3215448563,"Paracausal Affinity","Final blows of energy types matching this weapon's alignment grant increased damage for a short period of time. Light final blows boost Arc, Solar, and Void weapons. Darkness final blows boost Stasis and Strand weapons.","6cdbccd2dc6395b60163984481b334eb"
+3230963543,"Flared Magwell","Optimized for fast reloading.
+  •  Slightly increases stability
+  •  Greatly increases reload speed","f95e67e4ff37466505d66d3fa1030782"
+3239299468,"Sacred Flame","Hipfiring this weapon fires multiple tracking projectiles.
+Targets marked by these projectiles explode upon death, or when struck by another Sacred Flame's explosion.","18568884a55b52eaa946a8bea046a6b0"
+3242533954,"Parasitism","This weapon does more damage to enemies based on the number of SIVA nanites that attach to them.","187a9f4ee271926597225b701c1e7409"
+3250034553,"Hammer-Forged Rifling","Durable ranged barrel.
+  •  Increases range","2b9eb6d4489cffc18c10223279198bcc"
+3275789089,"Shield Disorient","Energy matched shield explosion disorients nearby combatants.","89ce94bd4588e16713cd3b001d8b18c8"
+3291427296,"Air Trigger","Greatly increased ammo reserves. When airborne, accuracy and reload speed are further increased but target acquisition is decreased.","21341179175df69bcd71b8c4f2d2ebe6"
+3298446480,"Causality Arrows","•  Arrows fired while aiming down sights cause Sacred Flames to instantly detonate.
+
+ •  Precision hits with perfectly drawn arrows increase the power of this detonation.","108b2cdd4bae4eb3962031ad73dd83e4"
+3299896859,"Paracausal Affinity","Final blows of energy types matching this weapon's alignment grant increased damage for an improved duration. Light final blows boost Arc, Solar, and Void weapons. Darkness final blows boost Stasis and Strand weapons.","6cdbccd2dc6395b60163984481b334eb"
+3300816228,"Auto-Loading Holster","The holstered weapon is automatically reloaded after a short period of time.","e4262099a1c2cea78b48a6680c5248c9"
+3301904089,"Spike Grenades","Grenades fired from this weapon do increased damage on direct hits.
+  •  Increases stability","05302d5b12e5f68541622766f18d3797"
+3311977193,"Helical Fletching","Aerodynamic and light. 
+  •  Slightly increases accuracy
+  •  Slightly increases stability","2f3417365352f6368bad28daab355c2c"
+3315935575,"Iron Reach","Massively improves weapon range at the cost of a reduced amount of weapon stability.","f732d5d48bf1a9bb6a33aba905af9347"
+3324494224,"Collective Action","Collecting elemental pickups or throwing a Strand Tangle grants a stacking period of increased damage.
+
+Elemental pickups include Firesprites, Void Breaches, Stasis Shards, Ionic Traces, and Strand Tangles.","901c6420954a4e60fc8a521960f556a8"
+3325420353,"Insectoid Robot Grenades","Defeated targets drop insectoid robots that chase and explode close to other targets.","10c641a390f34b2ab26f91546d179335"
+3326204863,"Smooth Grip","This weapon is slightly easier to hold and aim.
+  •  Slightly increases stability
+  •  Slightly increases handling speed","438cbb2a46dda1ec4412a77d01d8dcd2"
+3330548924,"Heavy Burst","Fires a hard-hitting, two-round burst. Slightly reduces flinching from incoming fire while aiming.","5c4c7b8c580a97ede3981eceefb63540"
+3333994164,"Dark Descent","The further a Void orb falls, the more powerful its detonation becomes.","94371eacdd05d5ec286ca4da499ee2ec"
+3335686050,"Recombination","Elemental final blows increase the damage of this weapon's next shot. Damage accelerates faster.","6f61697efee46bbd14e712deb5f07dc4"
+3337692349,"Mulligan","Missing a shot has a chance to return ammo directly to the magazine.","8ca9b9caef4c4c5c0c19d3be25be3755"
+3350417888,"Sympathetic Arsenal","Reloading after a final blow also reloads stowed weapons.","b744f4c74f1838c93a8eb63535b22a22"
+3351002503,"Bottomless Appetite","Dealing continuous damage extends the duration of Ravenous Beast.","f9aaabe3b023a7bd5a9a7f318948b18a"
+3364911712,"Rapid-Fire Frame","Fires full auto with deeper ammo reserves. Faster reload when weapon is empty.","801d62d1f9783bee81d5700c54c24fda"
+3365897133,"Explosive Head","Arrows explode after a short delay.","bffc545ee9b93f41e2729309cf3a736b"
+3371775011,"High Tension String","Tightly strung bow.
+  •  Greatly increases accuracy
+  •  Slightly slower draw time
+  •  Slightly decreases stability","347e9dbe7a237097160dcf797bcac19a"
+3373736292,"Sticky Grenades","Grenades fired from this weapon attach on impact and detonate when enemies are in proximity.","c2daa7ba870ad24bca0c6c1d2ac5db74"
+3400784728,"Triple Tap","Rapidly landing precision hits will return one round to the magazine.","0795f44c0c3611b15428742c67918cd1"
+3406782879,"En Garde","Quick attacks immediately after swapping to this Sword do additional damage for an improved duration.","7d9da904045e346588634a7b3b82e3f8"
+3414324643,"Archer's Gambit","Hipfire precision hits grant a massive draw-speed bonus for a short duration.","3564fd36f6fabba7557de4df20e00cb3"
+3416609154,"To the Pain","While this weapon is equipped, taking damage greatly increases handling and aim assist until the weapon is stowed.
+
+Taking more damage increases the effect.","99ddf93e3cd313111f122539b17f8358"
+3418165135,"Vorpal Weapon","Increased damage against bosses, vehicles, and Guardians with their Super active. Stability is improved. Swords have improved guard resistance.","bc5130b227ee577f2678ec2d2c97bf4a"
+3418782618,"Rewind Rounds","When this weapon's magazine is empty, it refills from reserves based on the number of hits.","a201fd61905b802867b677cf927e6e04"
+3419274965,"Precision Frame","This weapon fires a small auto-tracking missile. Missiles lock onto targets when aimed.","e9dd736124e8ef94048901a279a5bb18"
+3422796781,"Slice","Casting your class ability allows this weapon to sever targets on hit for an improved duration, up to a maximum number of targets.","1874354fc06817cf75a451d2ad1419e1"
+3425386926,"Rampage","Kills with this weapon temporarily grant increased damage. Stacks 3x.","8976ead57430e4f5f8af1b3005de4f83"
+3429800428,"Fiberglass Arrow Shaft","Heavy and consistent. 
+  •  Greatly increases accuracy
+  •  Slightly decreases stability","6c976951bad73f6645cf909496e5171b"
+3431277734,"Adaptive Munitions","This weapon adapts its damage output to be more effective against energy shields that don't match its damage type. Improves damage increase.","3b952f8ba0c9afce1a0cc081d23ece03"
+3433396026,"Meyrin RDS","Lightweight sight. Short zoom.
+  •  Increases handling speed
+  •  Increases range","7454bd513fe5dc8ce65844e8e6556bee"
+3433396027,"Meyrin RDL","Superior scope. Medium zoom. Highlights enemy targets.
+  •  Increases range","f79323cb4b3356f90fc2af570c2074cd"
+3436462433,"Surplus","Increases handling, reload speed, and stability for each fully charged ability.","a4c054c3547840300b9ce7ef11b7b6fc"
+3438534621,"Combat Grip","This weapon's recoil direction is more vertical.
+  •  Greatly controls recoil","02a60561b11d9abee82741981af12a3f"
+3441203855,"Void Leech","This weapon leeches Void debuffs when damaging targets that are suppressed, weakened, or volatile. Once charged, [Alternate Weapon Action]  to swap firing modes. In this mode, damage from this weapon applies the same Void debuffs that were leeched.","06c2f038f5e1f275385aa2d522e9d7d1"
+3442762221,"Lead from Gold","Picking up Heavy ammo also grants increased ammo to this weapon.","87f6cac4799cbae4e11ba74d3dc77504"
+3449390870,"Adaptive Burst","Well-rounded, reliable, fires a 3-round burst.","967fb4abc6ab98f74639d6c08e5f56ee"
+3465198467,"Composite Stock","This weapon has a versatile dual-purpose stock.
+  •  Slightly increases stability
+  •  Slightly increases handling speed","7c616b3d2d0e97bf8948b1371b3007bb"
+3468089894,"Aggressive Frame","High damage, high recoil.","5c4c7b8c580a97ede3981eceefb63540"
+3470828242,"Flame Refraction","Kills with this weapon return a fraction of the ammo used to the magazine from reserves, extending the beam's duration.","cea9d1532966f264c68d0e3c59b9eb28"
+3471922734,"Empty Bowstrings Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+3492337375,"Restorative Turret","[Alternate Weapon Action]  : When weapon energy is full, consume it before firing to make your next shot deploy a healing turret on impact that provides Cure and Restoration to nearby allies.","a217875d50f5041fc4aea3cce66e72b0"
+3492396210,"Implosion Rounds","This weapon's projectiles travel faster and have a controlled explosion.
+  •  Increases projectile speed
+  •  Greatly increases stability
+  •  Decreases blast radius","3ec484f0a65df7da9bbc5582c708574b"
+3492498209,"Shortened Barrel","Greatly improves handling at the cost of range and stability.","787399e5de27d5a5454463468acb076e"
+3504197951,"Unforeseen Repercussions","This weapon's beam superheats its targets upon impact, causing delayed scorching explosions.","39f6a935aaebdea39c5d5b67aee16cd9"
+3511092054,"Elemental Capacitor","Increased stats based on the currently equipped Super.
+• [Solar] increases your reload speed.
+• [Arc] increases handling.
+• [Void] increases stability.
+• [Stasis] moderately controls recoil and increases movement speed when aiming down sights.
+• [Strand] increases airborne effectiveness.","e455d94dcafdab7a0d5a850712908020"
+3513791699,"Mulligan","Missing a shot has a chance to return ammo directly to the magazine.","8ca9b9caef4c4c5c0c19d3be25be3755"
+3523296417,"Demolitionist","Kills with this weapon generate grenade energy. Activating your grenade ability reloads this weapon from reserves.","da009697110e06b65d6f827b3b6d5f70"
+3523746922,"Archer's Tempo","Draw time substantially decreases after every precision hit for a longer duration.","819e91753bf9cbd48b557ba193d342cd"
+3525010810,"Quick Launch","This weapon's barrel provides faster projectiles and much faster aiming.
+  •  Greatly increases handling speed
+  •  Increases projectile speed","dfad5d8b00b79c4393943b791a624874"
+3526486541,"Tilting at Windmills","Blocking damage with your shield increases movement speed while shielding.","212c0e69de61bbb0a9cfea024cf3a279"
+3528046508,"Auto-Loading Holster","The holstered weapon is automatically reloaded after an improved short period of time.","e4262099a1c2cea78b48a6680c5248c9"
+3530948111,"Adaptive Burst","Fires a three-round burst.","967fb4abc6ab98f74639d6c08e5f56ee"
+3551049142,"Gathering Light","Final blows with this weapon grant stacks of Gathering Light, improving guard stats and lunge range.
+Stowing this weapon consumes all stacks, granting melee, grenade, and class ability energy.","4b1d2ca4cbd7f20e5e2b25ef8aa14bed"
+3551326236,"Rampage","Kills with this weapon temporarily grant increased damage. Stacks 3x.","8976ead57430e4f5f8af1b3005de4f83"
+3551884421,"Edge of Concurrence","Hybrid melee/ranged polearm with a frontal shield.
+Generates energy on dealing ranged damage.
+
+[Aim Down Sights]  : Raise shield, depleting energy over time
+[Melee]  : Kinetic melee combo","8ab8aad4e05cec1b236d07f153203a36"
+3556949035,"Time-Slip","At 10 stacks of Rewind Again, a small portal will open, shooting bullets from an alternate timeline version of this weapon. Precision hits extend the portal's duration.","f2bc936a70f0912c7266e4e27d421713"
+3563868667,"Clown Cartridge","Reloading this weapon randomly overfills it from reserves to an improved degree.","794d65813703324c653878def082ca66"
+3592538738,"Wellspring","Kills with this weapon generate ability energy. This energy is divided between your uncharged abilities.","ec2e3096ebd447bd6137735c9067b991"
+3602718766,"Rocket Tracers","Landing multiple hits turns your next shot into a homing micro-rocket.","94d482b2fc2a9d67cdd7cdb85e708488"
+3609952942,"Iron Gaze","Massively improves weapon target acquisition at the cost of a reduced amount of weapon range.","a09bd02ced2eaf494fe335858c256154"
+3610750208,"Timeless Mythoclast","This weapon fires full auto when in its default firing mode.","00828876f483906277c0a1930ed737fe"
+3610814281,"Volatile Light","Rounds fired from this weapon have reduced damage falloff, overpenetrate targets, and ricochet off hard surfaces. Projectile damage increases after bounce.","d276bc2ff973fe1f25c12a53399cf8d5"
+3619207468,"Keep Away","Increases reload, range, and accuracy when no targets are in close proximity.","597cd0f1c5fe1f7681a1c129f8b958dd"
+3625355092,"Burst Guard","Sword Guard has high resistance, but low endurance.","d182dd5e1da7a10583dfb9f65ff026bc"
+3632437946,"Redemption","Final blows with this weapon cure you and increase reload speed; reloading after final blows cures nearby allies.","f1a416c81276310a2955e337286f7764"
+3639389650,"The Corruption Spreads II","This weapon creates SIVA nanite swarms on rapid hits and precision kills.","245796e2ee1a517bb8fdf268fcfd0ce4"
+3639389651,"The Corruption Spreads III","This weapon creates SIVA nanite swarms on rapid hits and precision kills.","245796e2ee1a517bb8fdf268fcfd0ce4"
+3639389652,"The Corruption Spreads IV","This weapon creates SIVA nanite swarms on rapid hits and precision kills.","245796e2ee1a517bb8fdf268fcfd0ce4"
+3640170453,"Chaos Reshaped","This weapon gains bonus damage while in combat for an extended time. Remaining in combat for even longer rewards a larger damage bonus and periodically heals the wielder.","9570c12a7c71062dd668f519c977fc22"
+3642491337,"Tesseract","[Heavy Attack]  : Use while sprinting with full energy to launch a heavy blink attack. Press again after the strike to blink a second time.","0f0b1cde75c8e801cd320924a6e71673"
+3643424744,"Overflow","Picking up Special or Heavy ammo automatically loads this weapon beyond normal capacity.","3165fec56b59363fa974a11f5730f4ec"
+3649430342,"Twintails","Shoots two rockets, one Void and one Solar, that can track onto the same target.","3e2c8b1bab53ea59b73f69459980c540"
+3650930298,"Cold Steel","Powered Sword hits slow targets.","3f0da1e4b12adccd39509c6f7afdd233"
+3661387068,"Chambered Compensator","Stable barrel attachment.
+  •  Increases stability
+  •  Moderately controls recoil
+  •  Slightly decreases handling speed","0b451cbccc7f11f6aec9c153e59474cb"
+3666208348,"Jagged Edge","Increased damage at the cost of sword ammo.","d9a508b43ae6935d68fc5030c90b5b4a"
+3668782036,"The Fate of All Fools","Chain precision shots to gain bonus damage on your next body shot and return ammo to the mag.","b49e2025a1c4a1ca92c66523a657e1dc"
+3673922083,"Adagio","After defeating a target, this weapon fires, charges, or draws more slowly and deals increased damage for a brief time.","b344c34bf750a840b24ff5d2f8fe4507"
+3674673997,"Immovable Object","Dealing ranged damage grants substantially increased weapon energy while you're stationary with your shield raised.","9de1b9b8ef6587649e18482d1d1ca6ea"
+3678483220,"Assassin's Blade","Sword final blows boost movement speed and damage for an improved duration.","3084651d1a6c6d206994af7f92856dfe"
+3700496672,"Shoot to Loot","Shooting an Orb of Power picks it up. Shooting an ammo brick picks it up and automatically reloads all of your equipped weapons from reserves.","e8c6e23afe3c4215f0dc0c2941500c28"
+3705817207,"Duelist's Trance","Sword final blows grant increased charge rate and defense until this weapon is stowed.","6edb612b2992e7c724b60dfbdf9ad2ad"
+3708227201,"Surrounded","This weapon gains bonus damage when three or more enemies are in close proximity.","979881b68ca7839267c9aef5aea2b0ce"
+3719974635,"Eye of the Storm","This weapon becomes more accurate and boosts handling as your health gets lower. Increases stability.","8f4755f9068959b26b8829641e5725ad"
+3721627275,"Swap Mag","Increases this weapon's ready and stow speed.","189373621216db573964bfc8a3632999"
+3722653512,"Air Assault","Final blows grant a stacking bonus to airborne effectiveness. Final blows while airborne grant increased stacks.","4c0ec089add62d58c6bb24387cde0bea"
+3732622839,"Burst Guard","Sword Guard has high resistance, but low endurance.","d182dd5e1da7a10583dfb9f65ff026bc"
+3744057135,"Bait and Switch","Deal damage with all equipped weapons within a short time to give this weapon a damage boost for an improved duration.","bc91e95edfbc9163dd88339a93b66913"
+3751354116,"Shock Blast","This weapon fires blasts of high-damage Arc energy that overpenetrates enemies.","3614de3a64aa2f17791942b3b1e16499"
+3751912585,"Cascade Point","Final blows or sustained precision hits with another weapon increase this weapon's rate of fire for a short duration.","fd17b30233d244fc7115315633906f6a"
+3755070117,"Payday","Larger magazine. Increased accuracy when firing from the hip. Picking up Special or Heavy ammo immediately reloads this weapon.","60c7fa926923cc66c3fa0887d0978102"
+3755250867,"Under Pressure","Greatly improved stability and accuracy as the magazine gets lower.","ac8ec81cd8139434a4b19e459bd9b8ff"
+3758615625,"Micro-Missile Frame","This weapon fires a high-speed projectile in a straight line and deals reduced self-damage. Move faster with this weapon equipped.","805b05505825f3bf07a383c75ee10a63"
+3768438372,"Agile Bowstring","Durable yet light bowstring.
+  •  Greatly increases handling speed
+  •  Slightly increases stability","6796bbe4e3f485fc610700d581d18475"
+3772485195,"Heat Sink","Overheat damage is reduced while not aiming down sights.","ec9620bac4391e2b325184fbd2b49b91"
+3782773412,"Tithing Harvest","While Creeping Attrition is active, destroying Stasis crystals or landing precision final blows creates a Stasis shard. The Stasis shard returns to you, and collecting Stasis shards refills the magazine.","e3dccec2d11f6c0ad18183f817419308"
+3787406018,"Split Decision","Dual barrels split into Stasis and Solar damage.","32b54307033749462fc4fe8826f5a3f9"
+3796465595,"Impact Casing","Increased damage on direct hits.
+  •  Increases stability","8eff94634227ae7261579b31c4ad6024"
+3797647183,"Ambitious Assassin","Overflows the magazine based on the number of rapid final blows before reloading. Improves reload.","1f93b49c7f10b1be70083f913a3c5d63"
+3798852852,"Smart Drift Control","This barrel is broadly optimized for firing control.
+  •  Moderately controls recoil
+  •  Increases stability
+  •  Increases handling speed
+  •  Slightly increases projectile speed","5c9fe3f49086b4d6cecc3431751edc02"
+3800201097,"Immovable Object","Dealing ranged damage grants increased weapon energy while you're stationary with your shield raised.","9de1b9b8ef6587649e18482d1d1ca6ea"
+3803329707,"Empty Magazines Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+3809316345,"Countermass","This weapon is weighted for vertical recoil.
+  •  Greatly controls recoil
+  •  Increases stability
+  •  Increases handling speed","6fda396e0f2fa3c2eceac79e39f9c44b"
+3824105627,"Firefly","Precision kills with this weapon increase reload speed and cause the target to explode, dealing Solar damage to nearby enemies.","629e225e6f8214326bc1eb0a911a6f6d"
+3827198035,"Straight Fletching","Modern fletching for straight paths. 
+  •  Increases accuracy","92a450ce220653b3f2d625d43aceb667"
+3828510309,"Enlightened Action","Dealing damage improves reload speed and handling.","cee13d00e65346dacc05562c80f537da"
+3834106778,"Hunter's Trace","This weapon fires special shield-piercing ammunition. Precision hits grant targeting data. [Alternate Weapon Action]  to swap to the alternate scope, loading high-damage rounds based on the amount of targeting data.
+Strong against [Shield-Piercing] Barrier Champions.","3d8cb1d75f5d334f96cf356370268161"
+3837077246,"Rewind Again","Precision shots and shots against combatants slowed or frozen by Stasis will return to the magazine.","ab384af668bde770e470f15c444db238"
+3865257976,"Dragonfly","Precision kills create an elemental damage explosion.","c87b03bb6d56b393f8582e128b337332"
+3868766766,"Particle Repeater","Improves stability. 
+  •  Increases stability","8a273117023794757631a34803314351"
+3871884143,"Disruption Break","Breaking an enemy's shield with this weapon makes them more vulnerable to Kinetic damage for a brief period.","45b57ce27fa0213218c7cb8f2253c517"
+3874977694,"Pack Hunter","Gain increased handling and reload speed when standing near allies. Firing this weapon also grants Wolfpack Rounds to nearby allies wielding non-Exotic Rocket Launchers.","5e8be152a38c4acd61b2a9e56671cc83"
+3878366039,"Impulse Amplifier","Massively increases projectile velocity, substantially increases reload speed.","85269cc90d2005ccd6a41b5d830e223d"
+3884127242,"Dornröschen","The weapon's laser overpenetrates enemies and refracts off hard surfaces.","a857dbb055db241abac55e7c42a6ae66"
+3891536761,"Kinetic Tremors","Sustained kinetic damage to a target emits a shockwave that damages any nearby targets.","300c343e6c33651a74d8a3fe81536146"
+3894668351,"Unwound","Dealing sustained damage with this weapon spawns Threadlings at your target's location.","c9203c038eb442c9bfacd38bd0968e81"
+3905543891,"Black Hole","Second shot of a burst rips a hole through space-time, doing high damage and recoil with no falloff.","d74ce8d1d7ddb11dcd2a6a9a96d0c8cd"
+3913463509,"Insectoid Robot Grenades","This weapon's grenades are insectoid robots that chase targets and explode close to them. Consumes tougher combatants to create additional robots.","10c641a390f34b2ab26f91546d179335"
+3913600130,"Whirlwind Blade","Rapid sword strikes increase this weapon's damage for a short duration. Guarding also ends the effect.","47ac6355881a181641c21c9de51ba649"
+3917450714,"Textured Grip","The friction on this weapon's grip is particularly strong.
+  •  Greatly increases handling speed
+  •  Slightly decreases stability","f1a31e1710aac5b4fb1715d174093199"
+3920370755,"Firmly Planted","Greatly increased accuracy, stability, and handling when firing while crouched.","379796d2e74676d3790f0bd485ea03a9"
+3920852688,"Rapid-Fire Frame","Fires full auto with deeper ammo reserves. Faster reload when weapon is empty.","801d62d1f9783bee81d5700c54c24fda"
+3923638944,"Heavy Burst","Fires a hard-hitting, two-round burst. Slightly reduces flinching from incoming fire while aiming.","5c4c7b8c580a97ede3981eceefb63540"
+3927722942,"Lasting Impression","Rockets attach on impact and detonate after a delay. Increases blast radius and damage.","17820685693b8338ba983e6002e2af11"
+3937312904,"On Black Wings","Pellet final blows grant a stacking precision damage and reload speed buff. Precision hits with slugs extend the duration.","207d9a123ec8d31987e22f586b7fc5b5"
+3938834702,"To the Pain","While this weapon is equipped, taking damage increases handling and aim assist until the weapon is stowed.
+
+Taking more damage increases the effect.","99ddf93e3cd313111f122539b17f8358"
+3949068808,"Arc Conductor","Powered heavy attacks charge the wielder, enabling them to resist Arc damage and chain lightning to nearby targets.","a4961c9b9db1aa3e14cc4953d497bbce"
+3955464425,"Closing Time","Further improves range, accuracy, and handling as the magazine gets lower.","8a31da21e65dd889eb96b7e0b135bbbe"
+3966416502,"Jolting Feedback","Dealing repeated damage with this weapon inflicts Jolt. 
+
+While amplified, Jolt is applied faster.","27270b6f5da035b05fa797c82bb6a10d"
+3970637031,"Harbinger's Pulse","Multikills with this weapon immediately reload your equipped Kinetic and Energy weapons from reserves.","e90f6908b322b5f32f3df0bf3f7ac4d7"
+3974407819,"No Distractions","Aiming this weapon for a very short period of time reduces flinch.","3f6534e7fd934e0ecfeb1cac9da9c97f"
+3977735242,"Tracking Module","Adds tracking capability to rockets. Locks onto targets when aiming down sights.","e9a84062da4eecc07c85c55e70dd11fb"
+3978468247,"Discord","Final blows with another weapon grant this weapon increased speed for aiming down sights, accuracy, and airborne effectiveness for a short time. When Discord is active, final blows refund ammo.","3112a65a875b759a21ab94b832d04279"
+3983457027,"Aggressive Frame","Hard-hitting, high recoil. Increases rate of fire after kill.","5c4c7b8c580a97ede3981eceefb63540"
+3987942396,"Envious Arsenal","Dealing damage with both other weapons before readying this weapon refills it from reserves.","234bcd9dc9f5e3ec850a8eac748afbde"
+3993379141,"Deconstruct","Dealing sustained damage grants bonus damage against vehicles and constructs and refills ammo from reserves. Damage with Primary ammo or against constructs provides additional progress.
+
+Constructs include barricades, turrets, Stasis crystals, and other objects created in the field.","91de2fd6a7756ba07d301a93e1e1cf29"
+3999527219,"Remote Detonation","Fires a slower grenade projectile that bounces and detonates on trigger release.
+  •  Increases blast radius
+  •  Decreases magazine size","c1938ff2bf3fca54d0543e151d55b6db"
+4004944400,"String of Curses","Kills refill the magazine, increase damage for a short duration, and grant Super energy based on the strength of String of Curses. Fires full-auto.","245f00fb74778c09573f9638fb42f3c0"
+4012962526,"Dual Speed Receiver","When aiming down sights, weapon rate of fire slows while weapon damage increases.","d49ad23506e477e632be44dc888bd746"
+4015745376,"Toxic Overload","Landing a final blow or multiple precision hits triggers a burst that poisons nearby targets.","a0f81725d5b8ec519d082fedcbad06cd"
+4045335048,"Headseeker","Body shots landed with this weapon increase precision damage and aim assist for a short time. Body shots landed while the perk is active refresh the time.","bdca577f8850f3c6168e9bc055019934"
+4045839491,"Sunburn","This weapon fires explosive rounds and highlights targets that take damage from Sunshot.","212ffce06b84421dabe4fe730fd6ce77"
+4049631843,"One for All","Hitting three separate targets increases damage for a moderate duration.","b1bce269c3cd21393131b4f5cffae692"
+4063561849,"Physic","Rapidly healing allies grants you and your allies restoration for an improved duration.","9fe1c3bf97d3b2df2c31c6c8cb5ad8b6"
+4067834857,"Flexible String","Light and easy to draw.
+  •  Slightly faster draw time
+  •  Slightly decreases accuracy
+  •  Increases handling speed","78ed6849d9edee066fbf127e8321784b"
+4071163871,"Threat Detector","Increased reload, stability, and handling when enemies are in close proximity.","9611bdbc48aff898193fd5f705c7cf30"
+4072668471,"Crow's Wings","[Heavy Attack]  : Fire a heavy projectile attack. 
+Heavy attacks are stronger with full energy.","f8345b65625301dd9b85294e3796a829"
+4082225868,"Swashbuckler","This weapon gains increased damage from melee kills and kills with this weapon.","42631a4aff4432e794529a5a707eba61"
+4085959009,"Relentless Strikes","[Light Attack]  : Landing three light-attack hits within an improved short time grants Sword ammo.","ad4bb4c9e36674ca879310b733a6e6a3"
+4090651448,"Corkscrew Rifling","Balanced barrel. 
+  •  Slightly increases range and stability
+  •  Slightly increases handling speed","7730e1732ed7ef91afce50277639c493"
+4100396181,"Invisible Hand","Repeatedly missing targets increases this weapon's stability for a short time. This buff lasts for a longer duration after a target is hit.","a309822ed9a0f590a4a3279f9f0d89c4"
+4104185692,"Frenzy","Being in combat for an extended time increases damage, handling, and reload for this weapon until you are out of combat.","23e06f4ced1b3e6476f342978ff5bb37"
+4115637021,"Sun Blast","Targets defeated with Sunshot explode in Solar energy, scorching other nearby targets.","4ff1dfdeee6dbd253c39dbad3361c1d5"
+4116820839,"Snapshot Sights","Faster time to aim down sights. Stability is increased.","ce16c9e2cbd73bb548af3e15bdfc7177"
+4130495068,"Precision Frame","Fires a slower grenade projectile that bounces. 
+[Shoot]  : Fire; release to detonate.","e9dd736124e8ef94048901a279a5bb18"
+4133742354,"Trinary Vision","One-shot handheld Grenade Launcher. Projectiles release a fan of three energy waves on contact with the ground.","a513ecb3fc543444e73f99e1f5ab186b"
+4133742355,"Trinary Vision","One-shot handheld Grenade Launcher. Projectiles release a fan of three energy waves on contact with the ground.","a513ecb3fc543444e73f99e1f5ab186b"
+4133742357,"Trinary Vision","One-shot handheld Grenade Launcher. Projectiles release a fan of three energy waves on contact with the ground.","a513ecb3fc543444e73f99e1f5ab186b"
+4134353779,"Drop Mag","Increases reload speed but reduces magazine size.","9d19f0c349652f0285bb5f999307b8a1"
+4146729347,"Last Stand","Improved weapon performance and greatly increased recovery when its wielder is the last living member of a fireteam.","5cca3e6759e6c15f01d8ef3333650568"
+4148158229,"Reign Havoc","Final blows with this weapon generate stunning lighting strikes from above. Strong against [Disruption] Overload Champions.","7025af41096be5fefec5e77ad2808a0e"
+4152709778,"Iron Gaze","Massively improves weapon target acquisition at the cost of weapon range.","a09bd02ced2eaf494fe335858c256154"
+4172222323,"Legacy PR-55 Frame","Customized frame with dramatically increased accuracy, stability, and targeting while hip firing.","a3402f39212e2996a198d4c3882ef15d"
+4172267910,"Adaptive Frame","[Heavy Attack]  : Launch a heavy uppercut attack.
+Heavy attacks are stronger with full energy.","967fb4abc6ab98f74639d6c08e5f56ee"
+4175584682,"Barrel Constrictor","Final blows with this weapon significantly reduce its projectile spread for an improved duration.","2471cb66f0a5ccc2d7654d6a0bbb3bcb"
+4183521337,"Tireless Blade","Sword ammo granted for every other powered Sword final blow, with a chance for additional ammo to be provided.","d597ced6ce0812d168ce86b31eaaeb03"
+4184462049,"Cursebringer","Precision final blows with this weapon trigger a Cursed Thrall explosion and increase reload speed for a short time. Final blows with Cursed Thrall explosions refill the magazine.","d0479adc37e6df06e2535f97ff1e16a7"
+4185339856,"Revolution","This weapon fires full auto.
+[Alternate Weapon Action]  : Swap to Arc Seeker mode. Arc Seekers track toward combatants you target.","712035ee33dee243ab985577f8f6b019"
+4190643473,"Breakthrough","This weapon fires [Stagger] staggering projectiles. Strong against Unstoppable Champions.","5427d95a04d2c6e6ef8700e028df93d6"
+4200236906,"Gutshot Straight","Aiming down sights increases body shot damage but decreases target acquisition slightly.","5c4c785bde7b9808d48ded283256750e"
+4207509907,"Killing Wind","Final blows grant increased mobility, weapon range, and handling for an improved duration.","db2aa71ff6d808929bb0e668dcf0822e"
+4208418110,"The Corruption Spreads","This weapon creates SIVA nanite swarms on rapid hits and precision kills.","245796e2ee1a517bb8fdf268fcfd0ce4"
+4223976499,"Heal Clip","Reloading after dealing a final blow grants Cure to you and your nearby allies. You have additional time to perform the reload.","3d0f2eb4c1e4f66f2bd897ec4d5ce4f1"
+4245865861,"Subsistence","Defeating targets partially reloads the magazine from reserves with an increased amount of ammo.","eaa8f4295a71bf47df7ffd8599f7af4d"
+4252909580,"Bottomless Grief","Increases magazine size. While you are the last living member of your fireteam, each final blow refills your magazine.","088930f7cf51b028acc8b7cb477fff9c"
+4259401308,"Fitted Stock","This stock makes the weapon stable but heavy
+  •  Increases stability
+  •  Moderately controls recoil
+  •  Slightly decreases handling speed","a23363ab49857b303f2cfa238fe5045c"
+4260919524,"Mark 15 Lens","Ocular sights. Long zoom.
+  •  Greatly increases range 
+  •  Decreases handling speed","0c0392a7aeb33551185ec9ebcd3b1f09"
+4260919525,"Mark 10 Glass","Ocular sights. Long zoom. 
+  •  Increases range
+  •  Slightly decreases handling speed","0c0392a7aeb33551185ec9ebcd3b1f09"
+4267945040,"Full Auto Trigger System","Holding down the trigger will fire this weapon at full auto.","85059dae97dea2121091a0f787e20985"
+4274613598,"Valiant Charge","Receiving damage while guarding temporarily increases Sword lunge distance for an improved duration.","8e45df44b7ed10ef736320bed007e2f4"
+4274614370,"Valiant Charge","Receiving damage while guarding temporarily increases Sword lunge distance.","8e45df44b7ed10ef736320bed007e2f4"
+4285971291,"White Nail IV","Higher base precision damage. Rapidly landing three precision hits will refill the magazine.","493f849c2ab78a52a049b3cfc3c222d7"
+4285971292,"White Nail III","Higher base precision damage. Rapidly landing three precision hits will refill the magazine.","493f849c2ab78a52a049b3cfc3c222d7"
+4285971293,"White Nail II","Higher base precision damage. Rapidly landing three precision hits will refill the magazine.","493f849c2ab78a52a049b3cfc3c222d7"
+4290541820,"Golden Tricorn Enhanced","Final blows with this weapon grant bonus damage for an improved duration. While this buff is active, grenade or melee final blows of the same damage type greatly increase its damage for an improved duration.","8ad63f37f2513f56892e0ed20621f5dc"
+4293542123,"Incandescent","Defeating a target spreads scorch to those nearby.
+More powerful combatants and opposing Guardians cause scorch in a larger radius.","22ed4a2cd5a0eb129a14ce77db49373f"
+4620383,"Weft Cutter","Dealing sustained damage severs the target.","353e4e6198aec5cc5cc299f17c2497a3"
+5699512,"Tempered Truss Rod","High stiffness for quick handling.
+  •  Greatly increases handling speed
+  •  Slightly decreases reload speed
+  •  Slightly decreases range","f9f9e68826c8f28498afb1525a27062f"
+11551321,"Iron Grip","Massively improves weapon stability at the cost of reload speed.","3d4f6b2d636fd569980b0ab9abfdce34"
+11612903,"Adrenaline Junkie","This weapon gains increased damage and handling from final blows with grenades or this weapon.","6f8bde03140b53e6dc583ada1aeaa51d"
+13792278,"Hitmark IS","Agile sight. Short zoom. 
+  •  Greatly increases handling speed
+  •  Slightly increases range","f1a06db7e6d7df4282f7ebdaca12b769"
+13792279,"Cleanshot IS","Snapshot sight. Short zoom.
+  •  Increases handling speed
+  •  Slightly increases range","8624b5c2c44539d0b9416f210e43a2b2"
+16392701,"Compact Arrow Shaft","Thinner arrows to increase nocking speed and weapon handling.
+  •  Increases handling speed 
+  •  Increases reload speed","92192e1f865a985b853ca28f5321c1ba"
+23371658,"Box Breathing","Aiming this weapon for an improved short period without firing grants bonus range and precision damage that resets after firing or exiting zoom.","ef9c0dbddcb4c51fe5d3768e26b73746"
+24925370,"Gift of the Traveler","Each stack of Gathering Light improves this weapon's reload, handling, and target acquisition.","fc316573f6c0b3c8e9552d9ec1db3ce6"
+25606670,"Dual Loader","Reloads an additional shot at a time.","628a238007fc97c4d4a85d0cd6933dba"
+25692695,"The Scientific Method","Damaging an opponent temporarily increases speed and handling.","c329e8bf3a787a9e3933ca87afafb463"
+31057037,"Adaptive Burst","Well-rounded, reliable, fires a 3-round burst.","967fb4abc6ab98f74639d6c08e5f56ee"
+31345821,"Sword Logic","Final blows with this weapon grant bonus damage. The strength and duration of the bonus increases when more powerful targets are defeated.","152c94f1a02446aebdeda3ccca2cf3c7"
+34498892,"The Right Choice","Every seventh bullet from this weapon ricochets to nearby targets.","c3308465941fe4a45b71e04129df0e5c"
+47981717,"Opening Shot","Improved accuracy and range on the opening shot of attack.","276e8ce23910c6ee2a6b88b076a2004c"
+52780822,"Balanced Guard","Sword Guard has balanced overall defenses.","9f43984d3d2818ea3cc3aa6a6be82c85"
+64332393,"Permeability","Using your class ability changes this weapon's damage type to match your equipped Super until you stow the weapon. Improves handling.","8b9d5337822da200425e0422b7376c24"
+64866129,"Explosive Payload","Projectiles create an area-of-effect detonation on impact. Improves reload.","31f02e5f3bae68ecdfdd3f899cf931c7"
+75282108,"Weighted Edge","This weapon's melee attacks deal increased damage and slow targets when loaded with ammo.","49a589eedb7d65cfab022a83e292d116"
+87986588,"GB Iron","Agile iron sights. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","29b5a35eebd5354c09c846734abe33ea"
+87986589,"GA Post","Agile post sights. Short zoom. 
+  •  Greatly increases handling speed
+  •  Slightly increases range","3f9c324002e22894ca7789be75ace572"
+90392189,"Hungering Quarrel","Double fires tracking bolts. Landing bolts leeches health from the target.","c59f81b9e4fa8b9503de2ffdae2c41ed"
+95528736,"Onslaught","Final blows with this weapon increase its rate of fire.","7e07db21ba2b35751507256e46230616"
+102912326,"Hatchling","Precision final blows or rapidly defeating targets with this weapon spawns a Threadling at the target's location. Improves handling.","2f7e898e2231900ac968ffb2080fc02b"
+106909392,"Tactical Mag","This weapon has multiple tactical improvements.
+  •  Slightly increases stability
+  •  Increases reload speed
+  •  Slightly increases magazine size","f0e309a267b25279a871d182f8910bcc"
+124408337,"Headstone","Precision final blows spawn a Stasis crystal at the victim's location.","3a705de0f526aea681a5ffd99b400ab8"
+127335543,"Dynamic Charge","Final blows and precision hits build up Dynamic Charge. Swapping to Arc Seeker mode increases damage and partially reloads the magazine based on the number of charges.","8a7cd3e5365c5830d9ca1d9ca5e26a03"
+136456835,"Reversal of Fortune","Missing 2 shots returns a bullet to the magazine after a short duration.","3621d640b7e9574264f960cbd9aef5bf"
+147913470,"Whirlwind Blade","Rapid Sword strikes increase this weapon's damage for an improved duration. Guarding ends the effect.","47ac6355881a181641c21c9de51ba649"
+162561147,"Mulligan","Missing a shot has an improved chance to return ammo directly to the magazine.","8ca9b9caef4c4c5c0c19d3be25be3755"
+169755979,"Dragonfly","Precision final blows create an elemental damage explosion. Improves reload.","c87b03bb6d56b393f8582e128b337332"
+176919422,"For the Empire","This weapon is Full Auto, does extra damage to Cabal, and penetrates Phalanx shields.","c9dac85bbed86b11d72cc3d3b89a1de7"
+183772609,"Caster Frame","[Heavy Attack]  : Launch a heavy projectile attack.
+Heavy attacks are stronger with full energy.","21cba9f6f6b34dced5a3cd8a6fd53c52"
+183938251,"Under-Over","Deals improved bonus damage to targets with overshields. Deals a small amount of bonus damage to combatant shields.","22587c092ade23b9ea1a48ba871e8788"
+185041502,"Volatile Battery","This battery simultaneously exists in multiple timelines, causing the weapon to Overcharge.
+
+  •  Greatly increases magazine size","468b38c8abc137199a7c0b00c271ae17"
+191144788,"Slideshot","Sliding partially reloads this weapon's magazine and temporarily boosts range and stability greatly.","7d41765e3db3a77da5cce27888c52d87"
+194952921,"Transmission MS7","Omolon ocular technology. Long zoom.
+  •  Increases range
+  •  Slightly decreases handling speed","df172a148d2ce7b9d41dd76665748fc1"
+194952922,"Impulse MS3","Omolon ocular technology. Long zoom. 
+  •  Increases range
+  •  Decreases handling speed","651222eee6720d1b0c4088173ca89439"
+194952923,"Signal MS5","Omolon ocular technology. Long zoom. Highlights enemy targets. 
+  •  Increases range
+  •  Slightly decreases handling speed","ac45e65ab8f836fa45c641f5becab6e1"
+200829441,"Lightning Rod","Precision kills grant the next shot chain-lightning capabilities.","e85736b898adb2aaf2f97cf585578d8d"
+201365942,"Archer's Tempo","Draw time decreases after every precision hit.","819e91753bf9cbd48b557ba193d342cd"
+202670084,"Full Bore","Barrel optimized for distance.
+  •  Greatly increases range
+  •  Decreases stability
+  •  Slightly decreases handling speed","40a4bdcf0f5a4e492927f9569eaf529d"
+205890336,"Pulse Monitor","Automatically reloads the magazine and improves weapon handling when wounded—even when this weapon is stowed.","64642b7455e88ffde77be53ce7cb7c05"
+213689231,"Paracausal Shot","Final blows and precision hits with Hawkmoon grant stacks of Paracausal Charge. The final round in the magazine deals bonus damage based on the number of stacks. Stowing Hawkmoon on the final round removes this bonus.","243f5529bbd845871803181958599473"
+214670074,"Snareweaver","Precision hits and final blows build energy towards a Snareweaver arrow that can be fired from the hip. On impact, Snareweaver arrows create a pattern of traps that suspend nearby targets.","4061fbc69bad26a23b8be567b8f2ed1e"
+216781713,"Precision Frame","This weapon fires a small auto-tracking missile. Missiles lock onto targets when aimed.","e9dd736124e8ef94048901a279a5bb18"
+228577175,"Soaring Fang","Dealing damage while grounded charges antigrav repulsors. Dealing damage while airborne extends antigrav repulsors.
+[Alternate Weapon Action]  to disengage antigrav repulsors.","ddb9c66018bd532d7a4d72a2e55389b2"
+229534486,"Apollonic Tangent","Arrows fired through a Guidance Ring release seeking projectiles, which do more damage based on distance traveled.","09072313039642fc34919b64c2afc153"
+243981275,"Attrition Orbs","Dealing sustained damage creates an Orb of Power.","c2092fae6ae58ca77a7f9b4434e688ef"
+247725512,"Rapid Hit","Rapid precision hits temporarily increase stability and reload speed.","de22847fa94634a487758041887bcdaa"
+254337357,"Reservoir Burst","When the battery is full, your next burst deals additional damage and causes targets to explode on death. Improves stability.","3b0dc56a21a390c92723be952200108f"
+263649945,"Vortex Frame","[Heavy Attack]  : Launch a heavy spin attack.
+Heavy attacks are stronger with full energy.","23e50e126159f0f22983f73d6a246f0d"
+265542500,"Chain Bowstring","Heavy-duty bowstring. Cabal design.
+  •  Slightly increases accuracy
+  •  Increases stability","a4e9a1cd1622b25bac56107c22e3d092"
+269888150,"Swordmaster's Guard","Sword Guard has low overall defenses, but increases charge rate.","328c503080c2593ce690ded51dc6f5e5"
+280464955,"Firmly Planted","Increased accuracy, stability, and handling when firing while crouched.","379796d2e74676d3790f0bd485ea03a9"
+281315705,"White Nail","Higher base precision damage. Rapidly landing three precision hits will refill the magazine.","493f849c2ab78a52a049b3cfc3c222d7"
+288411554,"Rampage","Final blows with this weapon grant increased damage for an improved duration. Stacks 3 times.","8976ead57430e4f5f8af1b3005de4f83"
+289811733,"Wave Sword Frame","Heavy attack deploys a shockwave uppercut and launches the user into the air.
+
+An immediate follow up swing after the uppercut deploys a homing strike that aggressively seeks a target.","a036d40aac06df275ffbb37ab370d7b7"
+290014589,"Revved Consumption","Damaging a combatant heals the wielder.","19a92359d87ad5585413ea3f6a953931"
+299272945,"Release the Wolves","[Alternate Weapon Action]  : Greatly increases rate of fire and shoots in full auto.","7e577b4303b24a3a0eb1bda9b8a64dd5"
+320534106,"Cosmology","Kills with this weapon cause enemy targets to detonate and spawn Void projectiles that track targets.","b4f1b9fb53bb15b8aa4847b809445def"
+331667533,"Cascade Point","Final blows or sustained precision hits with another weapon increase this weapon's rate of fire for an improved duration.","fd17b30233d244fc7115315633906f6a"
+332133599,"Mini Frags","Grenades are smaller and more compact for easier reloading.
+  •  Increases magazine size
+  •  Increases reload speed
+  •  Decreases blast radius","89e6a61d84c55c679d578fe6a689da27"
+332733060,"Precision Instrument","Dealing sustained damage significantly increases precision damage.","e6a4ebc1a8a73e4c7fcfc21c69000ce2"
+332773068,"Volatile Launch","This weapon is optimized for an especially explosive payload.
+  •  Greatly increases blast radius
+  •  Slightly decreases handling speed
+  •  Slightly decreases projectile speed","d255c9140cf640cfc820f995d1c1e96a"
+334466122,"Close the Gap","Variable trigger. Press and release to fire individual shots. Hold to charge up a high-powered, [Stagger] stunning laser. Strong against Unstoppable Champions.","152d823ea2b4e360c0ac5f80813ffefb"
+344235611,"Chill Clip","Direct hits with the top half of the magazine cause a detonation that slows nearby targets. Stability is improved.","ee011569c060e6aef51ad201cafdfd32"
+354401740,"Assassin's Blade","Sword final blows boost movement speed and damage.","3084651d1a6c6d206994af7f92856dfe"
+360593481,"SRO-52 Ocular","SUROS ranged combat scope. Long zoom. 
+  •  Greatly increases range
+  •  Decreases handling speed","d39e277cab12145e4e1615b00177363e"
+360593482,"SRO-41 Ocular","SUROS threat evaluation. Long zoom. Highlights enemy targets.
+  •  Increases range","6617e5972d4fc6e2f064e92e1b639625"
+360593483,"SRO-37 Ocular","SUROS ranged combat scope. Long zoom.
+  •  Increases range
+  •  Slightly decreases handling speed","4fda4ccd8f1c5a50af8d45e32f1c6091"
+365154968,"Target Lock","Damage increases the longer this weapon remains on a target.","72be46e05195a95ae1307a684f68456b"
+366474809,"Empty Grips Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+372430833,"Shock Blast","This weapon fires blasts of high-damage Arc energy that overpenetrates enemies.","3614de3a64aa2f17791942b3b1e16499"
+377257911,"MIDA Multi-Tool","This weapon boosts move speed.","e166ed5bda9363836024fdf72f1ebac0"
+385138649,"Area Denial Frame","Burst fire Grenade Launcher. Each projectile creates a lingering pool on impact that deals damage over time.","d1c2cea4a7325962a493283c5615d260"
+389268985,"Arc Traps","Grenades stick to surfaces and chain Arc bolts to other mines.","9a2325b8fabb212687e547179caac6ba"
+395388285,"Firing Line","This weapon deals increased precision damage when near two or more allies. Handling is increased.","92a5e8dbef32a414709d3196cb815d89"
+402033656,"Grave Robber","Melee final blows or dealing damage with a charged melee reloads this weapon's magazine from reserves. Improves handling.","043d100167af67d6041719044a033221"
+405677814,"Cold Steel","Powered Sword hits slow targets. Improves ammo capacity.","3f0da1e4b12adccd39509c6f7afdd233"
+406461158,"Tracking Module","Adds tracking capability to rockets. Locks onto targets when aiming down sights. Increases blast radius.","e9a84062da4eecc07c85c55e70dd11fb"
+407549716,"Broadside","Each successive shot has more damage and more spread.","1aa267b6622e2772df0ad14d0edd5d02"
+409831596,"Proximity Grenades","Grenades fired from this weapon have increased proximity detection but a decreased blast radius.","2102943d96718ba437952118be346b1b"
+411799453,"Dark Deliverance","Fires remotely detonated projectiles that drop Void orbs on combatants.
+[Shoot]  : Fire; release to detonate.","c93bd806ce95e833b272dfb02bf7a89b"
+424370782,"Envious Assassin","Defeating targets with other weapons before drawing this one transfers additional ammo to the magazine from reserves. This effect can overflow the magazine based on the number of targets defeated.","bf7fccf6de8ee6d2e9e6285c004a4758"
+425960662,"Delayed Gratification","Grenade projectiles will bounce off surfaces.
+[Shoot]  : Fire; release to detonate.","b2706cea75fc36f7fc48fc888997982a"
+430173891,"Wave Sword Frame","Heavy attack deploys a shockwave uppercut and launches the user into the air.
+
+An immediate follow up swing after the uppercut deploys a homing strike that aggressively seeks a target.","a036d40aac06df275ffbb37ab370d7b7"
+436053704,"Hungry Edge","Increased sword ammo.","974bb52d2a830e83bb142699b31e567c"
+438098033,"Harmony","Final blows with other weapons improve this weapon's damage and performance for a short duration.","0a3c1c5e1cb05adef7cf6af6602a0da0"
+445755704,"Tactic SAS","Accurate Sidearm sight. 
+  •  Slightly increases range","687240e502cf2c8546f70d1d7589aaf2"
+445755705,"Shortspec SAS","Balanced Sidearm sight. 
+  •  Slightly increases stability
+  •  Slightly increases handling speed
+  •  Slightly increases range","687240e502cf2c8546f70d1d7589aaf2"
+445755706,"Control SAS","Stable Sidearm sight. 
+  •  Increases handling speed
+  •  Increases stability","687240e502cf2c8546f70d1d7589aaf2"
+445755707,"QuickDot SAS","Agile Sidearm sight. 
+  •  Greatly increases handling speed
+  •  Slightly increases stability","687240e502cf2c8546f70d1d7589aaf2"
+445755710,"FarPoint SAS","Pinpoint Sidearm sight. 
+  •  Greatly increases range
+  •  Decreases stability
+  •  Decreases handling speed","687240e502cf2c8546f70d1d7589aaf2"
+445755711,"Target SAS","Sharp Sidearm sight.
+  •  Increases range
+  •  Slightly decreases stability
+  •  Slightly decreases handling speed","687240e502cf2c8546f70d1d7589aaf2"
+454085387,"Blunt Execution Rounds","Damaging nearby combatants with melee abilities dramatically increases handling and damage. Expires after a short duration or the next shot.","bf4f14c413c7dd2d84e028c5a39f0902"
+459441288,"Harmonic Laser","Laser damage has three power levels that oscillate while the trigger is held down.","f312575180c8ed1a1bcf81929c58f400"
+460017080,"Headseeker","Body shots landed with this weapon increase precision damage and aim assist for a short time. Body shots landed while the perk is active refresh the time.","bdca577f8850f3c6168e9bc055019934"
+461437088,"Stormbringer","Rapid final blows create a lightning storm at the target's location.","0790a72c1ce7597cd58a232d8f64d556"
+461595545,"Reconstruction","This weapon reloads itself at an improved rate over time, up to double capacity.","9b0c09a784bc7af2f7d038e3626832a9"
+466087222,"Smoothbore","Smooth shotgun barrel. Greatly increases range at the cost of more projectile spread.","893c134549afba522b3cbd2e43fdf4fa"
+469285294,"Recombination","Elemental final blows increase the damage of this weapon's next shot.","6f61697efee46bbd14e712deb5f07dc4"
+470163129,"Harvester Spike","This weapon fires a Harvester Spike projectile. Dealing final blows with this weapon creates a single Vestige at the target's location. Impaling more powerful combatants with the projectile creates a steady stream of Vestiges from the target.","1680e76b1f327649603c8ac48682d681"
+474269988,"Lightweight Frame","One-shot handheld Grenade Launcher with remote detonation. 
+[Shoot]  : Fire; release to detonate.","6db8cd21c2b3e6fffeb6f111d6c70dd2"
+481338655,"Shrapnel Launcher","Fires a powerful short-range burst of Solar damage.","ec6a8ee4d7239d087daebc9ff81d2c43"
+494941759,"Threat Detector","Greatly increased reload, stability, and handling when targets are in close proximity.","9611bdbc48aff898193fd5f705c7cf30"
+501717180,"Ionic Return","Breaking a combatant's shield—or the shield of a Guardian using a Super—with the matched damage type refills the magazine from reserves and grants bonus damage rounds. Breaking a combatant's shield with a matched damage type Ionic Return round refreshes the perk.","09a44f5bd2b84102809cef7ab599ae39"
+507151084,"Accomplice","Kills with this weapon fill the magazine of the equipped Energy weapon from reserves.","3b92b1705264b6a8bd414135d3a7e2e1"
+509074078,"Steady Hands","Kills provide improved handling for all weapons for a short duration.","ed60dd27f28737cbfc77bf41c3784c01"
+509594246,"Rangefinder","Aiming this weapon increases its effective range and zoom magnification, and improves handling. Increased projectile velocity while aiming Rocket Launchers, Grenade Launchers, and Bows.","74270d52bec24f1f5f4c987f5f37fce9"
+519046634,"Caster Frame","[Heavy Attack]  : Launch a heavy projectile attack.
+Heavy attacks are stronger with full energy.","21cba9f6f6b34dced5a3cd8a6fd53c52"
+525593296,"Desperation","Reloading after a precision final blow or a final blow with a Cursed Thrall explosion increases your rate of fire and improves stability and aim assist.","1fd0441fbd7dc24b0ec3f3ccbefe8435"
+536173722,"Pugilist","Final blows with this weapon generate improved melee energy. 
+Dealing melee damage briefly improves this weapon's handling.","93bb6bb34fb0616805ba2a7181ab386c"
+536517534,"Compression Chamber","Fires a pellet spread in hip-fire or a single high-damage slug while aiming.","0b4083c34ec1be179301aea6245a017e"
+554078784,"Zoom 30 Focus","Powerful scope. Long zoom. 
+  •  Greatly increases range
+  •  Decreases handling speed","b46586e550515fef426c8e175a763514"
+554078785,"Zoom 10 Point","Balanced scope. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","b46586e550515fef426c8e175a763514"
+555281244,"Precision Instrument","Dealing sustained damage increases precision damage.","e6a4ebc1a8a73e4c7fcfc21c69000ce2"
+557221067,"Killing Tally","Kills increase this weapon's damage until it is stowed or reloaded.","a64f5d3e972ea35b1789f62999235083"
+561986700,"Loose Change","Applying an elemental debuff to a target increases this weapon's reload speed, aim assist, and movement while aiming down sights for an improved duration.","27411cde4538bb1fdc2d70088233eb2c"
+563069569,"Reverberation","Final blows with this weapon increase the size of its detonations for a short duration.","64edcfb23da95e960fef8fd749b993a1"
+571267712,"Prismatic Inferno","Fires a Solar trace beam that creates a field of heat energy that grows as the weapon is fired. Sustained damage applies scorch to the target.","ea46e3015259c7bc0d98020eb1889c2a"
+571791574,"Violent Reanimation","Multiple final blows with this weapon grant Devour to the wielder.","d8cd30e72d44ced246d709f9fd5db3bd"
+573122728,"Triple Tap","Landing precision hits will return one round to the magazine.","0795f44c0c3611b15428742c67918cd1"
+580685494,"Auxiliary Reserves","Additional energy storage.
+  •  Greatly increases shield duration
+  •  Decreases reload speed","3992f0e9424be473f729e3b5eb81be78"
+588594999,"Moving Target","Increased movement speed and target acquisition when moving while aiming down sights.","40b591eae7f122fdf1cfca21fc6f6c0f"
+591790007,"Iron Reach","Massively improves weapon range at the cost of weapon stability.","f732d5d48bf1a9bb6a33aba905af9347"
+594346985,"Lightweight Emitter","Weight reduction for better agility.
+  •  Increases reload speed
+  •  Slightly increases handling speed
+  •  Decreases shield duration","1a823b316085917d38071d2c4465b8a1"
+595108252,"Compulsive Reloader","Grants greatly increased reload speed when close to full magazine.","ef5843dfe8134c7385945216ece2bb06"
+598607952,"Chain Reaction","Each final blow with this weapon creates an elemental damage explosion. Improves ammo reserves. Swords have improved guard endurance.","d17a60978288581d13a4aab6b9fc2b0e"
+599007201,"Enduring Guard","Sword Guard has high endurance, but low resistance.","f41732ca49953994397e5ab50fdc3a2e"
+617966211,"Successful Warm-Up","Each final blow increases charge/draw speed for an improved duration.","86e2c776ad294730c87b0ef0f150a748"
+619537267,"Fanatical Lance","Rapid final blows cause targets to explode into a pool of radiolarian fluid.
+
+Hip firing launches multiple projectiles at once in a slower moving spread pattern. Projectiles detonate on impact.","dc2f20f7972f1d28b662486421eea27b"
+624891305,"Desperado","Reloading after a precision final blow increases your rate of fire for an improved duration.","1c95bff6fa57919ab0f5547d1f107fad"
+630329983,"Ride the Bull","Increases rate of fire and recoil while you're holding down the trigger. Final blows dealt with this weapon reload the magazine.","bcfc8335ec4730393b381d4e7d521c28"
+639190697,"Sword Logic","Final blows with this weapon grant bonus damage for an improved duration. The strength and duration of the bonus increases when more powerful targets are defeated.","152c94f1a02446aebdeda3ccca2cf3c7"
+647617635,"Memento Mori","Reloading after a kill loads magazine with a few extra-damage bullets. Grants radar while aiming down sights.","e52c148b184269c02a7c67cace4284ff"
+656200654,"Conserve Momentum","Hits with projectiles decrease this weapon's charge time for a short duration.","9517548e73ff619a2e19f5432ee3c32b"
+663495154,"Model 8 Red","Red-dot. Medium zoom. 
+  •  Greatly increases range","3f4c176e47a8515034fbadf28a160223"
+663495155,"Model 6 Loop","Red-dot. Medium zoom. 
+  •  Increases range
+  •  Increases handling speed","3f4c176e47a8515034fbadf28a160223"
+671806388,"Compulsive Reloader","Grants increased reload speed when close to full magazine.","ef5843dfe8134c7385945216ece2bb06"
+674546187,"Circle of Life","Rapidly healing allies grants this weapon an improved period of increased damage.","b2ea38d2727dcf5a7ef7e2a0a25d4621"
+679077872,"Rifle Scope SSF","Focused scope. Long zoom. 
+  •  Slightly increases range
+  •  Slightly decreases handling speed","becbc42b412c5539173aa46b692364ab"
+679077873,"Rifle Scope ST","Ranged scope. Long zoom. 
+  •  Increases range
+  •  Decreases handling speed","becbc42b412c5539173aa46b692364ab"
+679225683,"Light Mag","Improved reload and range.
+  •  Increases reload speed
+  •  Slightly increases range","736b486ddb80beefacb4f09b5ad016eb"
+684456054,"Eddy Current","Temporarily increases reload speed and handling after sprinting or while amplified. This effect is improved when you are amplified.","e0f3c00a8b2cbccb8f1f1b318026aeee"
+689005463,"Accelerated Coils","Speeds up charge.
+  •  Faster charge time
+  •  Decreases impact damage","a51d91da9fb0a4c8f45b2ffa89e51ad7"
+691659142,"Pugilist","Final blows with this weapon generate melee energy. 
+Dealing melee damage briefly improves this weapon's handling.","93bb6bb34fb0616805ba2a7181ab386c"
+699525795,"Eye of the Storm","This weapon becomes more accurate and boosts handling as your health gets lower.","8f4755f9068959b26b8829641e5725ad"
+706527188,"Quickdraw","This weapon can be drawn unbelievably fast.","6893bb2c7ec7d13cb0d91ec9dd8b6500"
+711234314,"Elemental Capacitor","Substantially increases stats based on the currently equipped Super.
+• [Solar] increases your reload speed.
+• [Arc] increases handling.
+• [Void] increases stability.
+• [Stasis] moderately controls recoil and increases movement speed when aiming down sights.
+• [Strand] increases airborne effectiveness.","e455d94dcafdab7a0d5a850712908020"
+711628886,"Perfect Float","Being in combat for a moderate time increases airborne accuracy and reduces flinch until you are out of combat for an extended duration.","4b84679efdbd9bf21d23c5e8e6516e5f"
+712324018,"Transformative","Future drops of this weapon will have random rolls.","ef1a8374c931321694d6d3d0d3e96247"
+715195141,"Precision Frame","Compound Bow. Longer draw time optimized for damage. 
+[Reload]  : Use while drawn to cancel the shot.","db45b9d8b807d52fab288e8c04733065"
+717070634,"Jolting Feedback","Dealing repeated damage with this weapon inflicts Jolt at an increased rate. 
+
+While amplified, Jolt is applied faster.","27270b6f5da035b05fa797c82bb6a10d"
+732557052,"Tactical Battery","This weapon has multiple small improvements.
+  •  Slightly increases stability
+  •  Increases reload speed
+  •  Slightly increases range","ae0d075c978d54c9fcda3cad72e58f62"
+743139589,"Blessing of the Sky","Using a Noble Round on an ally heals them and grants both you and them a weapon damage bonus for a short duration.","7536a5a94887c6ad71566995fce98081"
+744594675,"Well-Rounded","Throwing a grenade or hitting a target with a charged melee grants a stacking bonus to weapon stability, handling, and range.
+
+Using a Super grants maximum stacks.","29d63faf15876cf3a9a382aa857b608b"
+744619683,"No Backpack","Final blows or assists with any other weapon or ability have a chance to create ammo for Ice Breaker. Defeating powerful combatants will create multiple rounds.","75a25829bc760bafb7f994e3dc31a004"
+745965939,"Break the Bank","Blighted targets take damage over time and blight the nearby area on death.","6591965fcff3b5fd10854ef7cfe0f984"
+767484756,"9RECT Telescopic","Powerful scope. Long zoom. 
+  •  Greatly increases range
+  •  Decreases handling speed","aecf48beb487fabd9031ec87443b3c25"
+767484757,"50VAL Telescopic","Agile, snappy scope. Short zoom.
+  •  Slightly increases range
+  •  Increases handling speed","aecf48beb487fabd9031ec87443b3c25"
+776531651,"Repulsor Brace","Defeating a Void-debuffed target grants an overshield.","cfcbde3872d34c5258fd8227640a020e"
+777589556,"No Distractions","Aiming this weapon for a short period reduces flinch.","3f6534e7fd934e0ecfeb1cac9da9c97f"
+777589557,"Enlightened Action","Dealing damage improves reload speed and handling.","cee13d00e65346dacc05562c80f537da"
+777589559,"Field Prep","Increased ammo reserves. Faster reload, stow, and ready when you're crouching.","4ee1ecaead6fe2de1a2cab07f8b7be3f"
+777637181,"Play with Your Prey","The Void rocket suppresses enemies. The Solar rocket causes damage over time.","cf427a35a4ee78814216b5730887c1db"
+777774560,"Osmosis","Using your grenade ability partially refills the magazine and changes this weapon's damage type to match your grenade until you stow it. Handling is improved.","22ca6e872824561b12e91517e1bde608"
+781192741,"Surrounded","This weapon gains improved bonus damage when three or more targets are in close proximity.","979881b68ca7839267c9aef5aea2b0ce"
+788178929,"One-Two Punch","Hitting a target with nearly every pellet in a shot increases melee damage for a short duration.","013a56db7dc9c3f89012a381f601a4ff"
+791862061,"Assault Mag","This shotgun's magazine is optimized for quick combat.
+  •  Greatly increases stability
+  •  Increases rate of fire","953cfdeb2703978b1ab449b991b98989"
+798520364,"Evolution","Transmutation spheres you create can be picked up and wielded as weapons by you or your allies.
+• [Light Attack]  : Light attack
+• [Heavy Attack]  : Suppressing heavy attack
+• [Block]  : Guard/drain nearby targets","923177d4eefa95820043119f1c93ce24"
+806159697,"Trench Barrel","After a successful melee hit, this weapon gains increased damage, handling, and reload speed for a short duration—or until three shots are fired.","44f1e50b0d6629fc2f08bc7067ce011b"
+806917387,"Temporal Unlimiter","Defeating targets builds stacks of Overcharge.
+
+[Alternate Weapon Action]  : Swap firing modes when fully Overcharged.
+
+In alternative firing mode, hold the trigger to charge up and fire more powerful linear fusion shots.","f2479e7a93fae100b252a48ed2c4da19"
+806997698,"Rapid-Fire Frame","Full Auto. Deeper ammo reserves. Slightly faster reload when magazine is empty.","801d62d1f9783bee81d5700c54c24fda"
+809345546,"Devil Scope D2","Vicious scope. Long zoom. 
+  •  Increases range
+  •  Increases handling speed","528378c8a4be485c12c0c53f692c21c1"
+809345547,"Dusk Scope D2","Far scope. Long zoom.
+  •  Greatly increases range
+  •  Slightly decreases handling speed","528378c8a4be485c12c0c53f692c21c1"
+818211479,"Shattering Blade","If your heavy attack consumes the last of your ammo, it deals significantly increased damage. Excludes aerial attacks.","aae64d2fb6b1a95220f7c2e550e8e543"
+819232495,"Empty Tubes Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+828056542,"Backup Plan","Grants reduced charge time and increased handling speed for an improved short time immediately after swapping to this weapon.","479552737ba5ccd1ef34d33be9c2537f"
+830282363,"Phase Magazine","Increases damage while lowering rate of fire.
+  •  Decreases magazine size","a51d91da9fb0a4c8f45b2ffa89e51ad7"
+831391274,"Hatchling","Precision final blows or rapidly defeating targets with this weapon spawns a Threadling at the target's location.","2f7e898e2231900ac968ffb2080fc02b"
+834262328,"Kickstart","Gain bonus damage and charge rate during a slide after sprinting for an improved duration.","7bebeaee2c1cdad96ea43f47999579af"
+836583820,"Aggressive Frame","[Heavy Attack]  : Launch a heavy slam attack.
+Heavy attacks are stronger with full energy.","5c4c7b8c580a97ede3981eceefb63540"
+838873202,"Encore","Final blows grant a stacking stability, range, and accuracy bonus to this weapon. Precision final blows grant more stacks.
+Effect duration is improved.","857b00161b9794fdd62261adf02c6a5e"
+839105230,"Arrowhead Brake","Lightly vented barrel.
+  •  Greatly controls recoil
+  •  Increases handling speed","8f7fb54687aa52a9c2595d90ce9c9417"
+843318450,"Steady Hands","Kills provide improved handling for all weapons for a longer duration.","ed60dd27f28737cbfc77bf41c3784c01"
+844190854,"Lightning Seeker","[Alternate Weapon Action]  : When weapon energy is full, consume it before firing to make your next shot track targets across the ground, jolting them and unleashing chain lightning on impact.","9d415cea86046282dd233440de245827"
+848860060,"Fourth Time's the Charm","Rapidly landing precision hits will return two rounds to the magazine. Increases time between precision shots.","a5edd4e751e1aa34bf8328a63b121e71"
+852209214,"Polymer String","Unbreakable bowstring.
+  •  Slightly increases accuracy
+  •  Slightly faster draw time","9305314cd9b45f686fc10c3e8c02370f"
+855168139,"Unrelenting","Rapidly defeating targets triggers improved health regeneration. Guardians and powerful combatants count as more than one target.","1e5843177c71ae3f2a4770d01a2f3813"
+859780267,"One for All","Hitting three separate targets increases damage for an improved duration.","b1bce269c3cd21393131b4f5cffae692"
+861489047,"Vermin","Reloading immediately after a kill grants a brief period of invisibility.","d0d48a36ff8d416eb8510c27ab796da4"
+862848869,"Polymer Grip","This weapon's grip is made of lighter material.
+  •  Increases handling speed","c7111f59ce527eefed89ea29359b2960"
+873883409,"Shot in the Dark","Remaining invisible grants this weapon increased damage for a brief duration.
+
+Hitting a target with this weapon's projectiles while Shot in the Dark is active weakens them.","bf7ca39c4164277fab08cba5d1e78827"
+877533329,"Paracausal Imbuement","Final blows with this weapon grant Super energy. This weapon gains bonus damage once your Super expires.","3a88400826646fdf5ad1c92fd071856f"
+878286503,"Rapid-Fire Frame","Deeper ammo reserves. Slightly faster reload when magazine is empty.","801d62d1f9783bee81d5700c54c24fda"
+880644845,"Strategist","Final blows with this weapon generate class ability energy. Activating your class ability briefly improves this weapon's stability.","dc9057be28071222ed303d6baab3eb4f"
+891750160,"Hunter's Trace IV","This weapon fires special shield-piercing ammunition. Precision hits grant targeting data. [Alternate Weapon Action]  to swap to the alternate scope, loading high-damage rounds based on the amount of targeting data.
+Strong against [Shield-Piercing] Barrier Champions.","3d8cb1d75f5d334f96cf356370268161"
+891750166,"Hunter's Trace II","This weapon fires special shield-piercing ammunition. Precision hits grant targeting data. [Alternate Weapon Action]  to swap to the alternate scope, loading high-damage rounds based on the amount of targeting data.
+Strong against [Shield-Piercing] Barrier Champions.","3d8cb1d75f5d334f96cf356370268161"
+891750167,"Hunter's Trace III","This weapon fires special shield-piercing ammunition. Precision hits grant targeting data. [Alternate Weapon Action]  to swap to the alternate scope, loading high-damage rounds based on the amount of targeting data.
+Strong against [Shield-Piercing] Barrier Champions.","3d8cb1d75f5d334f96cf356370268161"
+893526892,"ATA Scout","Light sniper scope. Short zoom. 
+  •  Slightly increases range 
+  •  Greatly increases handling speed","f666015056a8b7c2da2de3e7d2f2b2e4"
+893526893,"ATC Rex","Combat sniper scope. Short zoom.
+  •  Greatly increases handling speed
+  •  Slightly decreases range","479f34b84c04f99f1f994c734488759e"
+893526894,"ATB Long Range","Long-distance Häkke scope. Long zoom. 
+  •  Greatly increases range 
+  •  Decreases handling speed","b4249ce58f1082000837830a5130f35e"
+893526895,"ATD Raptor","Standard sniper scope. Medium zoom. Highlights enemy targets. 
+  •  Increases range 
+  •  Slightly increases handling speed","6289983d3231ea1742d77c2e0fb42e82"
+895140517,"Precision Frame","This weapon's recoil pattern is more predictably vertical.","e9dd736124e8ef94048901a279a5bb18"
+906981559,"Discord","Final blows with another weapon grant this weapon increased speed aiming down sights, accuracy, and airborne effectiveness for a longer duration. When Discord is active, final blows refund ammo.","3112a65a875b759a21ab94b832d04279"
+908147344,"Sneak Bow","Increases hold time and reload speed, and prevents radar pings from shooting while crouched.","5e220246d771906f714ea0f89f83260d"
+911046884,"Condor SS2","Lightweight sniper sight. Medium zoom.
+  •  Increases handling speed
+  •  Slightly increases range","1f8c48494d67f399b7a15017a68809b3"
+911046885,"Yepaki SS2","Omolon ocular technology. Short zoom.
+  •  Greatly increases handling speed","8af8850a0831ff47eb704c1300bb7f91"
+911046886,"Aquila SS4","Omolon imaging technology. Long zoom. Highlights enemy targets. 
+  •  Increases range","f8d70c65137fa6670cd4caa2e116a882"
+911046887,"Corvo SS2","Omolon ocular technology. Long zoom. 
+  •  Greatly increases range
+  •  Slightly decreases handling speed","ea2046c3b11501a40af07b6aa99b61ce"
+918679156,"Pinpoint Slug Frame","Fires a single-slug round. This weapon's recoil pattern is more predictably vertical.","e9dd736124e8ef94048901a279a5bb18"
+923806249,"Slice","Casting your class ability allows this weapon to sever targets on hit for a brief duration, up to a maximum number of targets.","1874354fc06817cf75a451d2ad1419e1"
+928399924,"Cayde's Retribution","Pick up Orbs of Power or land precision hits to charge this weapon's Super bar. Once full, [Alternate Weapon Action]  to fire Golden Gun shots.","f942077c4b688452bc667d51483d5ae5"
+938542991,"Tempered Edge","Increased sword damage and ammo.","694a093ed0c7718b05cdf1ebaa3dd648"
+938999636,"Personal Assistant","Aim at an enemy to view its health and other critical information in the scope.","cdfa4207b82758a23265865646d87703"
+939227542,"Target Acquired","When Personal Assistant is active, this weapon has better target acquisition, deals significantly more precision damage, and
+jolts the target.","87250de0d841a8d35a31412c734190f9"
+944506345,"SUROS Legacy","The bottom half of each magazine deals bonus damage and has a chance to return health on kill.","e8a6aec5676cc019a98cfac850991d72"
+951095735,"Impulse Amplifier","Massively increases projectile velocity, increases reload speed.","85269cc90d2005ccd6a41b5d830e223d"
+956288240,"Onslaught","Final blows with this weapon increase its rate of fire for an improved duration.","7e07db21ba2b35751507256e46230616"
+957782887,"Snapshot Sights","Faster time to aim down sights.","ce16c9e2cbd73bb548af3e15bdfc7177"
+960810156,"Danger Zone","The blast radius of this weapon increases when surrounded by combatants. While active, this weapon deals significantly less damage to the wielder.","9f570c66f1cee6d088846ea54250a2ff"
+961505134,"Ignition Trigger","Sustained fire with this weapon overheats it, increasing damage but burning the user.","3f4250375d70887d20055f853d5a693c"
+965619220,"SLO-21 Post","SUROS projection sight. Short zoom.
+  •  Increases handling speed
+  •  Slightly increases range","06a70b1ca877e033ec582ba868485b56"
+965619221,"SLO-12 Post","SUROS projection sight. Short zoom. 
+  •  Greatly increases handling speed","73efb6e784b985692b4961171387e8af"
+965619223,"SLO-10 Post","SUROS projection sight. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","f9d4f0af9b9bf8489812b242bdb00dec"
+968510818,"Envious Assassin","Defeating targets with other weapons before drawing this one transfers ammo to the magazine from reserves. This effect can overflow the magazine based on the number of targets defeated.","bf7fccf6de8ee6d2e9e6285c004a4758"
+972757866,"Pulse Monitor","Automatically reloads the magazine and improves weapon handling when wounded—even when this weapon is stowed.","64642b7455e88ffde77be53ce7cb7c05"
+975429949,"Gathering Light","Final blows with this weapon grant stacks of Gathering Light.
+[Alternate Weapon Action]  : Consume stacks, granting melee, grenade, and class ability energy based on the number of stacks.","4b1d2ca4cbd7f20e5e2b25ef8aa14bed"
+981914802,"Hard Launch","This weapon's launch barrel is optimized for projectile speed.
+  •  Greatly increases projectile speed
+  •  Decreases stability
+  •  Slightly decreases blast radius","8bedf618841b334417b8f95c2aa35d57"
+984655331,"Attrition Orbs","Dealing sustained damage creates a slightly improved Orb of Power.","c2092fae6ae58ca77a7f9b4434e688ef"
+986191425,"LN2 Burst","[Alternate Weapon Action]  : Swap firing mode after a final blow to enable a charged shot.","b5dd9fb23bc5015f3733fb9ca96faa86"
+987673306,"Tunnel Vision","Reloading after defeating a target greatly increases target acquisition and aim down sight speed for an improved duration.","ab0837be56c8d5cfc474acd4f3f9c7ac"
+990298390,"Hand-Laid Stock","This weapon is optimized for recoil control.
+  •  Increases stability","11fe23229c61287c89916f094b26652f"
+996573084,"Rapid-Fire Frame","Fires full auto with deeper ammo reserves. Faster reload when weapon is empty.","801d62d1f9783bee81d5700c54c24fda"
+1000724343,"The Perfect Fifth","Precision hits return ammo to the mag. Landing 4 precision hits loads a delayed Solar explosive round that scorches targets for your next shot.","15b7e4e1c2aba9f0cb2b8fd8568ff995"
+1007199041,"Empty Barrels Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+1008128453,"Cornered","Faster charge time or draw time and increased stability when surrounded by combatants.","4155ec85e6c1e11b24d9986f21528d34"
+1012699414,"Heavy Grip","This grip is weighted for recoil control.
+  •  Increases stability
+  •  Decreases handling speed","02a60561b11d9abee82741981af12a3f"
+1012780539,"Sharpshooter","This weapon gains passive bonuses to target acquisition, aim down sight speed, and flinch resistance. The bonus increases when this weapon's super mode is active.","6992987251601d76b0f23f4778dc4214"
+1015611457,"Kill Clip","Reloading after a kill grants increased damage.","0afd4799427004b2d8170ab213a2ef0c"
+1019291327,"High-Impact Frame","Slow firing and high damage. This weapon is more accurate when stationary, moving slowly, and aiming down sights.","34573143849cf910d2381554bb57a10d"
+1030990989,"Banned Weapon","This weapon fires a 3-round burst.","b091bd256d8ff0881f12bb87e4d7db52"
+1036269296,"Cold Fusion","This weapon shoots a steady cold-fusion-powered Arc laser, dealing more damage the longer it remains on a target.","94cfe5855682f84c7a42118b8335dcaf"
+1047830412,"Full Choke","Tightened barrel. Reduces projectile spread when aiming down sights at the cost of precision damage.","629246e67fc8690d56b5478b0262131a"
+1048183818,"Adaptive Munitions","This weapon adapts its damage output and effectiveness against energy shields that don't match the weapon's damage type.","3b952f8ba0c9afce1a0cc081d23ece03"
+1059301209,"Pyrogenesis","Fully charging the laser refills the magazine from reserves.","2f54919edf2f8a266065fc2dae902ab2"
+1064669306,"Cranial Spike III","Chaining precision hits grants bonus target acquisition and range.","4dfb2a51e3f93e72f9bf576118c8c785"
+1064669307,"Cranial Spike II","Chaining precision hits grants bonus target acquisition and range.","4dfb2a51e3f93e72f9bf576118c8c785"
+1064669309,"Cranial Spike IV","Chaining precision hits grants bonus target acquisition and range.","4dfb2a51e3f93e72f9bf576118c8c785"
+1067908860,"Short-Action Stock","This weapon is especially easy to grip.
+  •  Greatly increases handling speed","47f90d3f25a517166933f2b4eb38e9aa"
+1070100196,"Honed Edge","[Alternate Weapon Action]  : Consume the magazine and load a round with additional range and damage.","0ae92c1e38b1d8fdfef5764be1649cb8"
+1077019636,"Danger Zone","The blast radius of this weapon increases when surrounded by combatants. While active, this weapon deals significantly less damage to the wielder.
+Base blast radius is also improved.","9f570c66f1cee6d088846ea54250a2ff"
+1087426260,"Appended Mag","This weapon's magazine is built for higher capacity.
+  •  Increases magazine size","d9f468cce26fe35d9db413e2f8451127"
+1096957638,"Rasmussen ISA","Agile sight. Short zoom.
+  •  Greatly increases handling speed
+  •  Slightly increases range","7b97b608a71b286c9dc41bee6c51b16f"
+1100877327,"Exhumation","Heavy attacks made with full Sword energy turn you invisible and fire exploding Void projectiles.","717e56f15a73fa2c023b2f71a341e539"
+1105347996,"Paracausal Pellets","Landing nearly all Stasis pellets will freeze targets; landing nearly all Solar pellets will ignite targets.","c1ce02086489c0a80ad7b34ef2ee7070"
+1119449540,"Loose Change","Applying an elemental debuff to a target increases this weapon's reload speed, aim assist, and movement while aiming down sights for a short duration.","27411cde4538bb1fdc2d70088233eb2c"
+1126264488,"Threat Remover","Dealing damage with all pellets in a spread increases reload speed, handling, and stability.","d6a5171d8bec7c818783f3e7b1b6426b"
+1134447515,"Empty Stocks Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+1134488199,"Withering Gaze","Aiming this weapon for a short period of time without firing grants the ability to weaken the next target. Timer resets after firing or when you stop aiming down sights.","ff3a789b729978880907dc5dc08b3793"
+1135494563,"Beacon Rounds","Final blows with this weapon grant your projectiles tracking and increase reload speed for an improved duration. Dealing further damage extends the duration.","53b269a1760611b75170abde8ff1032c"
+1140096971,"Seraph Rounds","Rounds overpenetrate targets and bounce off hard surfaces.
+• Slightly increases range
+• Increases stability","5e825cbfd6fbcef65358f27334368681"
+1145640183,"Counterattack","Blocking an attack immediately after guarding increases damage for an improved duration.","3a96a1a06bfeab461fd03b6d9fa9707f"
+1161469972,"Swashbuckler","This weapon gains increased damage for an improved duration from melee final blows and defeating targets with this weapon.","42631a4aff4432e794529a5a707eba61"
+1164602481,"Deconstruct","Dealing sustained damage grants bonus damage against vehicles and constructs for an improved duration and refills ammo from reserves. Damage with Primary ammo or against constructs provides additional progress.
+
+Constructs include barricades, turrets, Stasis crystals, and other objects created in the field.","91de2fd6a7756ba07d301a93e1e1cf29"
+1167468626,"Lasting Impression","Rockets attach on impact and detonate after a delay. Substantially increases blast radius and increases damage.","17820685693b8338ba983e6002e2af11"
+1168162263,"Outlaw","Precision kills greatly decrease reload time.","382df469a091c33e190ee583b64923e8"
+1171147302,"Feeding Frenzy","Each rapid final blow with this weapon progressively increases reload speed substantially for a short time.","89d7e65f5ebe8d291ea96f128765921d"
+1171887445,"Headstone","Precision final blows spawn a Stasis crystal at a target's location. Improves stability.","3a705de0f526aea681a5ffd99b400ab8"
+1172098417,"Sleight of Hand","Final blows with weapons or abilities while this weapon is stowed increase its handling, stability, and reload speed for an improved duration.","1834dab52e88116f0d0cd0eea54cc0ce"
+1172413778,"Thresh","Defeating combatants with this weapon generates an improved small amount of Super energy.","7f9dcf3bd4a8a4e0d2d0922827f038c9"
+1174163613,"Worm's Hunger","This weapon fires Hive worms which explode on impact. The size and damage of the explosion scales with the number of enemies you've defeated just before firing this weapon.","78f508973bbec1e44ac5e17d21e09d32"
+1178686995,"Mechanized Autoloader","This weapon automatically reloads on ammo pickup.","fc20c5992b1467f23e34d7350be8305a"
+1180618054,"Enduring Guard","Sword Guard has high endurance, but low resistance.","f41732ca49953994397e5ab50fdc3a2e"
+1180907940,"Spindle","Threadling damage increases this weapon's damage.","923357a68159cadc7cd347641619f3ee"
+1183436451,"Firefly","Precision final blows with this weapon substantially increase reload speed and cause the target to explode, dealing Solar damage to nearby targets.","629e225e6f8214326bc1eb0a911a6f6d"
+1185273366,"Armor of the Colossus","While at full health, spinning up this weapon protects you with an Arc shield.","f459e10b3296a359d9b7433248b30be2"
+1185480639,"Penance","Targets under the effects of Judgment long enough are struck with a burst of damage.","6662126fb4dd13bcf16a16bb2a407921"
+1186480754,"Saint's Fists","Rapidly fires 3 spreads of pure force.
+
+After a successful melee hit, this weapon gains increased damage, reduced charge time, and improved reload speed for a short duration. Hitting a target with most of the pellets in a burst increases melee damage for a short duration.","07b8acd24d669b05a3c24321d36983f6"
+1194056669,"Closing Time","Improves range, accuracy, and handling as the magazine gets lower.","8a31da21e65dd889eb96b7e0b135bbbe"
+1195158366,"Encore","Final blows grant a stacking stability, range, and accuracy bonus to this weapon. Precision final blows grant more stacks.","857b00161b9794fdd62261adf02c6a5e"
+1196733167,"Tactile String","Stable, high-friction bowstring.
+  •  Slightly increases accuracy
+  •  Increases stability","c21fc6c0bd351dc516012a853dfeecbd"
+1207608520,"Big Frigid Glaive","Fires a large ball of energy that locks onto nearby targets and freezes them.","8162ef148ec764fa68e69b5a6a7cb99c"
+1208312843,"Tempest Cascade","Collecting an Ionic Trace overcharges this weapon's next shot, jolting targets on hit.","ade74ef6e22b081920d78cb429d9457c"
+1210807262,"Repulsor Force","This weapon emits a powerful impulse that pushes enemies away, suppresses their abilities, and makes them more vulnerable to all incoming damage.","3f3df3c22d73b93477546e17defc04e4"
+1218765758,"Rega's Refrain","Stasis final blows transfer ammo to this weapon's magazine from reserves.","79603794814a893b2a5825443b967e3a"
+1219897208,"Empty Frames Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.","da47af2350d7ff4449f88e7c2f930118"
+1232390730,"Empty Hafts Socket","No perk currently selected.
+
+More perks become available as the weapon level increases.",
+1261178282,"Enduring Blade","Greatly increased sword ammo at the cost of damage.","1478f8a31179ca5306f1316e4018f9bd"
+1263609309,"Ballistic Tuning","Power diverted from shield.
+  •  Greatly increases range
+  •  Decreases shield duration","5d6a2a27f0a4a1b66d84f8073a7240b1"
+1264398905,"Celerity","Increases weapon handling and reload speed. Gain the following effects while you are the last living member of your fireteam:
+• Increased target acquisition
+• Increased handling and reload speed
+• Reduced flinch from incoming fire","7c14d03c3278c2cc925ad50249a0c316"
+1266604956,"Creeping Attrition","Rapidly landing precision hits causes targets to become slowed.","c1ef2192c47fabbab362ec1a29525fab"
+1271851280,"Be the Danger","Final blows with Unrepentant superbursts automatically reload your weapon and provide an Unrepentant superburst.","2e86e537cc0747fb70ba47bc6b24f2b3"
+1275731761,"Cluster Bomb","Rockets spawn cluster bombs upon detonation.","37974e92bb4f48bd438ba4757f5df851"
+1281243303,"Adaptive Ordnance","Defeating 4 or more combatants in a single volley increases the damage of the next volley and refunds ammunition.","16da05f7bcf183a8036e4f2664f3f9cb"
+1282254042,"Together Forever","This weapon has a well-rounded adaptive grip, reliable and sturdy. Kills with this weapon reload Sturm and overflow a bonus damage round into it.","ac2d4bc57f95c31467ac3e8155e0ea20"
+1288081796,"Wolf Sight W1","Lightweight sight. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","7304c8fd113f9e69f85af66e04421dcc"
+1288081797,"King Sight K1","Agile sight. Short zoom.
+  •  Greatly increases handling speed","7304c8fd113f9e69f85af66e04421dcc"
+1288081798,"Dusk Sight D1","Lightweight sight. Short zoom. 
+  •  Increases handling speed
+  •  Slightly increases range","7304c8fd113f9e69f85af66e04421dcc"
+1289604610,"Spread Shot Package","Aiming this weapon reduces the spread of its projectiles.","5b28dd5acc49a06144fe409e4580f6e8"
+1294026524,"Adaptive Frame","A well-rounded grip, reliable and sturdy.","967fb4abc6ab98f74639d6c08e5f56ee"
+1300023272,"Barrel Shroud","Balanced shotgun barrel.
+  •  Increases stability
+  •  Increases handling speed","d9e5e8fa07a84c29252b78b0e7b3106d"
+1302052952,"Pick Your Poison","Hipfiring: Projectiles will track marked targets, dealing increased body shot damage on impact.
+
+Aiming: Projectiles have greatly increased velocity and deal extra critical hit damage to marked targets.","a46540aa4ac11006864d398c8e96eb84"
+1313805249,"LC Ranged","Häkke marksman scope. Long zoom. 
+  •  Greatly increases range
+  •  Decreases handling speed","514c99c7d2f388c1a2b100e84b4417be"
+1313805250,"LB Assault","Assault scope. Long zoom. 
+  •  Increases range
+  •  Slightly decreases handling speed","0e98ce9c2e61d9f603a50e1883225845"
+1313805251,"LD Watchdog","Häkke threat evaluation tech. Long zoom. Highlights enemy targets. 
+  •  Increases range
+  •  Slightly increases handling speed","68b33d344738827d7febad5327ad1bf8"
+1315870387,"Cryocannon","[Shoot]  : Hold to charge; release to fire.
+This weapon's charged projectiles create a pattern of Stasis crystals on impact and freeze nearby targets.","2b437eb74c9a3f37cf81233532a428e2"
+1316753551,"Adaptive Glaive","Hybrid melee/ranged polearm with a frontal shield.
+Generates energy on dealing ranged damage.
+
+[Aim Down Sights]  : Raise shield, depleting energy over time
+[Melee]  : Kinetic melee combo","7fa898f1f8ec97eaad5c5214a850f85c"
+1319823571,"Cranial Spike","Chaining precision hits grants bonus target acquisition and range.","4dfb2a51e3f93e72f9bf576118c8c785"
+1322370662,"Precision Frame","Recoil pattern on this weapon is more predictably vertical. Fires quickly with high accuracy.","e9dd736124e8ef94048901a279a5bb18"
+1327961177,"Unplanned Reprieve","Powered heavy attacks emit projectiles that detonate with a delayed Void blast.","348d8657575b5549b2994049f7aa954d"
+1332244541,"Rifled Barrel","Ranged shotgun barrel.
+  •  Increases range
+  •  Greatly decreases handling speed","79d5f1f469d3290cfb849f4b3e6fc16b"
+1347741687,"Outlaw","Precision final blows greatly decrease reload time for an improved duration.","382df469a091c33e190ee583b64923e8"
+1354429876,"Fourth Time's the Charm","Rapidly landing precision hits will return two rounds to the magazine.","a5edd4e751e1aa34bf8328a63b121e71"
+1359896290,"Dynamic Sway Reduction","Improves accuracy and stability while continuously holding down the trigger.","36091de4dd029fb6e6ab95dbc612ff05"
+1365187766,"Gutshot Straight","Aiming down sights increases body shot damage, decreases target acquisition.","5c4c785bde7b9808d48ded283256750e"
+1370847713,"Opening Shot","Greatly improved accuracy and range on the opening shot of attack.","276e8ce23910c6ee2a6b88b076a2004c"
+1378047685,"Spinning Up","Holding down the trigger increases rate of fire.","592e50de49d0817f9341f2e6b2460f38"
+1380253176,"High-Explosive Ordnance","This weapon's projectiles are larger and travel faster.
+  •  Increases blast radius
+  •  Slightly increases projectile speed
+  •  Decreases magazine size","1e81b08badb2fa8ce16e9df925294f45"
+1385166695,"Overcharge Capacitor","Sprinting, sliding, and firing this weapon builds a temporary electrostatic charge, increasing range and reload speed. Final blows with high charge cause explosions, and maximum charge explosions blind targets.","91109353677bd35e988d62d8144d53ad"
+1385518514,"Liquid Cooling","Direct hits by a charged shot instantly freeze the target. Indirect hits freeze combatants and slow opposing Guardians.","693dfcdc1193f6dfc426f3f876769ad8"
+1392496348,"Polygonal Rifling","Barrel optimized for recoil reduction.
+  •  Increases stability","7d7aaccee29cf450d4057a9de871cdc8"
+1394384862,"Precision Slug","Fires a single-slug precision round.","d03f29426786c398935af39618b0f712"
+1395789926,"Wave Frame","One-shot handheld Grenade Launcher. Projectiles release a wave of energy when they contact the ground.","30428876335fdd1e164128b9e5a6e4ad"
+1408087974,"Combat Sights","Low-zoom sights with faster charge time and handling. Displays ability energy.","7e1b1752af5d8c62e2c97bd1bae30215"
+1408087975,"Marksman Sights","Long-range sights with slower charge time and greater damage. Displays ammo and charge levels.","0e048c00353bb3750088060e25ecec81"
+1408800487,"Omega Strike","Land hits with the slug launcher to load missiles,[Alternate Weapon Action]  and then fire to launch several missiles in a volley.","f5db81b339c48a4ffa9f55500129143e"
+1409206216,"Stats for All","Hitting three separate targets increases weapon handling, stability, reload, and range for an improved duration.","8aadd7fd25c2b1e9f3fc7f4411a97ea4"
+1409978308,"Spark PS","Omolon post sight. Short zoom. 
+  •  Slightly increases range
+  •  Increases handling speed","bbe1384636c4ab98264723933b4f8096"
+1409978309,"Candle PS","Omolon post sight. Short zoom. 
+  •  Greatly increases handling speed
+  •  Slightly increases range","8624b5c2c44539d0b9416f210e43a2b2"
+1409978311,"Jolt PS","Omolon Post sights. Short zoom.
+  •  Increases range
+  •  Slightly increases handling speed","c684cac8ae1847b4e0cbe6582136ef0c"
+1419069769,"Lightning Rounds","This weapon fires faster and more accurately the longer the trigger is held. Continuous damage generates stunning lightning strikes.","c968c0de1d01c6bfc13fc4d08d6cb312"
+1421772400,"Air Trigger","Increased ammo reserves. When airborne, accuracy and reload speed are increased but target acquisition is decreased.","21341179175df69bcd71b8c4f2d2ebe6"
+1427256713,"Reservoir Burst","When the battery is full, your next burst deals additional damage and causes enemies to explode on death.","3b0dc56a21a390c92723be952200108f"
+1428297954,"Perpetual Motion","This weapon gains bonus stability, handling, and reload speed while the wielder is in motion.","8b9a4582016210723532907414759e69"
+1431678320,"Alloy Magazine","Faster reload when the magazine is nearly empty.","069170916c98748b7b3e33b80bd7d689"
+1439600632,"Bipod","Increases Rocket Launcher ammo and reserves, but reduces damage, blast radius, and reload speed.","19c5d3e535cb27fbd4f037b024c165d7"
+1441682018,"Linear Compensator","This weapon's launch barrel is well-balanced.
+  •  Slightly increases projectile speed
+  •  Slightly increases blast radius
+  •  Slightly increases stability","5059f4059a4c59d0003f8fedf8987b78"
+1451849462,"Barrel Constrictor","Final blows with this weapon reduce its projectile spread for a short duration.","2471cb66f0a5ccc2d7654d6a0bbb3bcb"
+1452368632,"Wolf Dot W2","Scrappy scope. Medium zoom.
+  •  Decreases handling speed
+  •  Increases range","5430b0541712aa05d3ca2f23f9d8571e"
+1452368633,"King Dot K2","Superior scope. Short zoom.
+  •  Increases range
+  •  Slightly decreases handling speed","5430b0541712aa05d3ca2f23f9d8571e"
+1452368634,"Dusk Dot D1","Light flexible sight. Medium zoom. 
+  •  Increases range","5430b0541712aa05d3ca2f23f9d8571e"
+1458010786,"Lightweight Frame","Superb handling. Move faster with this weapon equipped.","6db8cd21c2b3e6fffeb6f111d6c70dd2"
+1467527085,"Extended Barrel","Weighty barrel extension.
+  •  Increases range
+  •  Decreases handling speed
+  •  Moderately controls recoil","d9e5e8fa07a84c29252b78b0e7b3106d"
+1468523096,"Vexadecimal","Strong against [Shield-Piercing] Barrier Champions. While holding down the trigger, every fourth Heavy Metal projectile also weakens targets on impact.","433ca559ede74cf8ac9135c8862962e8"
+1470121888,"Queen's Wrath","While aiming down sights with a fully drawn Bow, combatants behind walls are highlighted and arrows pierce shields. Strong against [Shield-Piercing] Barrier Champions.","208d03958cf2e523c3fd57ab4c809137"
+1478423395,"Volatile Launch","This weapon is optimized for an especially explosive payload.
+  •  Greatly increases blast radius
+  •  Slightly decreases handling speed
+  •  Slightly decreases projectile speed","d255c9140cf640cfc820f995d1c1e96a"
+1482024992,"Smallbore","Dual strength barrel.
+  •  Increases range
+  •  Increases stability","7d1bb6a623f14959a47156ee71acfc3a"
+1483536627,"Ionized Battery","Large heavy battery.
+  •  Greatly increases magazine size
+  •  Greatly decreases reload speed","a278b79aba1d341d2a070c0e48d9129a"
+1484442054,"Monte Carlo Method","Dealing damage with this weapon reduces your melee cooldown and grants a chance to fully charge your melee ability with each kill.","43466a6d5e3baf4d87f4037ee2043847"
+1491926336,"Ranged Lens RLR5","Precision scope. Long zoom.
+  •  Decreases handling speed
+  •  Increases range","becbc42b412c5539173aa46b692364ab"
+1491926337,"Focus Lens FLS2","Focused scope. Long zoom.
+  •  Slightly decreases handling speed
+  •  Slightly increases range","becbc42b412c5539173aa46b692364ab"
+1500996326,"Natural Fletching","Feather-light with good control.
+  •  Slightly decreases accuracy
+  •  Greatly increases stability","cdd881b20ae276fe6b81edd6bdd794fe"
+1522566605,"The Perfect Fifth","Every five hits attach a delayed Solar explosive, scorching your target.","15b7e4e1c2aba9f0cb2b8fd8568ff995"
+1523649716,"Tap the Trigger","Grants an improved short period of greatly increased stability and accuracy on initial trigger pull.","a7840da2970b4137a333fb187477dfe0"
+1523832109,"Reconstruction","This weapon slowly reloads itself over time, up to double capacity.","9b0c09a784bc7af2f7d038e3626832a9"
+1525239159,"Aggressive Frame","High damage, high recoil.","5c4c7b8c580a97ede3981eceefb63540"
+1528281896,"Outlaw","Precision kills greatly decrease reload time.","382df469a091c33e190ee583b64923e8"
+1530804125,"Superconductor","When Arc Conductor is active, shots fired have the chance to become chain lightning and return ammo.","bc6fccfab294303b14cb2e5bdeee97e4"
+1531126198,"Wire Rifle","Fires a long-range precision Arc bolt that chains to nearby targets and blinds them on hit.","b64178385eae25eaaf4832c85c8ecc57"
+1537607344,"Sympathetic Arsenal","Reloading a short time after a final blow also reloads stowed weapons.","b744f4c74f1838c93a8eb63535b22a22"
+1545231802,"Redirection","Damaging rank-and-file combatants increases damage against more powerful ones. Powerful shots consume fewer stacks.","062243c2875d9bbdc29aa115e1e299c5"
+1546637391,"Vorpal Weapon","Increased damage against bosses, vehicles, and Guardians with their Super active.","bc5130b227ee577f2678ec2d2c97bf4a"
+1549056416,"Shatter Shot","This weapon's uncharged projectiles deal bonus damage to Stasis crystals and frozen targets. Rapidly destroying multiple Stasis crystals reloads this weapon from reserves.","6fd18f45fb31bc57719194c7059491fc"
+1549370717,"Kinetic Tremors","Sustained kinetic damage to a target emits a shockwave that damages any nearby targets. Perk activates more quickly.","300c343e6c33651a74d8a3fe81536146"
+1551736345,"Explosive Head","Arrows explode after a short delay. Increases accuracy.","bffc545ee9b93f41e2729309cf3a736b"
+1556840489,"Lead from Gold","Picking up Heavy ammo also grants ammo to this weapon.","87f6cac4799cbae4e11ba74d3dc77504"
+1561002382,"High-Caliber Rounds","Shots from this weapon knock the target back farther.
+  •  Slightly increases range","9d1c49edb2d2b24c74067742c09fd5a5"
+1561789734,"Firefly","Precision kills with this weapon increase reload speed and cause the target to explode, dealing Solar damage to nearby enemies.","27f84cef4d4ab2aa73fa5692792831e2"
+1562897767,"Timed Payload","Projectiles attached to targets explode after a short delay. Increases stability.","1d53281172f2568e4c840409f4151771"
+1563455254,"Rewind Rounds","When this weapon's magazine is empty, it more effectively refills from reserves based on the number of hits.","a201fd61905b802867b677cf927e6e04"
+1570042021,"Heating Up","Final blows with this weapon increase accuracy and stability while improving vertical recoil.","39d2032b3c5bc7a5b2fe391c64ccb7db"
+1573888036,"Split Electron","Fires an arrow that splits when released. Aiming down sights and fully drawing the bow both decrease the spread.","e3d693fc9f3f8e88a70731e3a603c59f"
+1583705720,"Stats for All","Hitting three separate targets increases weapon handling, stability, reload, and range for a moderate duration.","8aadd7fd25c2b1e9f3fc7f4411a97ea4"
+1592669035,"Replenishing Aegis","Blocking damage partially reloads this weapon from reserves. Shortens delay between activations.","707a6279b07106593d3869b808005ac9"
+1600092898,"Backup Plan","Grants reduced charge time and increased handling speed for a short time immediately after swapping to this weapon.","479552737ba5ccd1ef34d33be9c2537f"
+1609056795,"Fragile Focus","This weapon gains bonus range until your shield is destroyed. The bonus returns more quickly once your shield has regenerated to full strength.","3d2e945cc3d38e88c87ee3e2687b612a"
+1617987572,"SSO-08 Sniper","Lightweight scope. Short zoom.
+  •  Greatly increases handling speed
+  •  Slightly increases range","c89bcdeba19f167cc886c8f524971422"
+1617987574,"SSO-05 Sniper","Suros imaging technology. Long zoom. Highlights enemy targets. 
+  •  Greatly increases range
+  •  Decreases handling speed","e4a2b77e66b47c413673af21fbf2fc24"
+1617987575,"SSO-07 Sniper","Suros scope technology. Medium zoom.
+  •  Increases range","6b0f602bf3080ab691f527ed87f4d74d"
+1618208178,"Eager Edge","Gain further increased Sword lunge distance immediately after switching to this weapon.","eddb478261ab53ec941b1a654e284c9d"
+1628165636,"Torch HS3","Omolon red-dot. Medium zoom.
+  •  Greatly increases range
+  •  Slightly decreases handling speed","90cb0b7769131d06c5d84ec47d29d01c"
+1628165637,"Flash HS5","Omolon red-dot. Medium zoom. Highlights enemy targets.
+  •  Increases range
+  •  Slightly increases handling speed","ba418ab702fcd53be6bb7c88cc146b63"
+1631667848,"Grave Robber","Melee final blows or dealing damage with a charged melee reloads this weapon's magazine from reserves.","043d100167af67d6041719044a033221"
+1634975868,"Heavy Burst","Fires a hard-hitting, two-round burst. Slightly reduces flinching from incoming fire while aiming.","5c4c7b8c580a97ede3981eceefb63540"
+1636108362,"Precision Frame","This weapon's recoil pattern is more predictably vertical.","e9dd736124e8ef94048901a279a5bb18"
+1645158859,"Under Pressure","Improved stability and accuracy as the magazine gets lower.","ac8ec81cd8139434a4b19e459bd9b8ff"
+1646437399,"Duelist's Trance","Sword final blows grant greatly increased charge rate and defense until this weapon is stowed.","6edb612b2992e7c724b60dfbdf9ad2ad"
+1650852150,"Long March","Detect enemies on your radar from farther away.","07cd000cf69e2ec5506935a25dde6eed"
+1656957541,"Charge Shot","Hold down the trigger to charge up a tracking shot that explodes and burns on impact.","56d8cdec7f559eeedf5d86a188dc888e"
+1657056865,"Ahamkara's Eye","Charging this weapon unleashes a giant continuous beam of death.","50acdede241ae67df84dd0a4e424ffe6"
+1657401727,"Transmutation","Final blows with this weapon collapse victims into Void Transmutation spheres.","ca8b8b4202b9949c0a5448204aba813b"
+1658733671,"The Roadborn","Precision final blows and rapid precision hits briefly grant bonus handling, range, rate of fire, and precision damage with this weapon.","465297cbfc948f4d9287141facb3c96c"
+1658784563,"Genesis","Breaking a combatant's shield with this weapon fills its magazine from reserves. Energy weapons regenerate ammo on hit when matching the damage type to the combatant's shield. Also increases weapon handling.","087a911353a3586f5346a1cf88d8de05"
+1663363584,"Sneak Bow","Increases hold time and reload speed; prevents radar pings from shooting while crouched. Improves stability and reload.","5e220246d771906f714ea0f89f83260d"
+1679262379,"Worm Byproduct","Taking damage from your own worm projectile detonation empowers your weapons for a short time.","9bd5a6561d258694e31e3197f757f580"
+1683379515,"Disruption Break","Breaking an enemy's shield with this weapon makes them more vulnerable to Kinetic damage for a brief period.","45b57ce27fa0213218c7cb8f2253c517"
+1685378950,"Pulse Monitor","Automatically reloads the magazine and improves weapon handling when lightly wounded—even when this weapon is stowed.","64642b7455e88ffde77be53ce7cb7c05"
+1685431615,"En Garde","Quick attacks immediately after swapping to this sword do additional damage.","7d9da904045e346588634a7b3b82e3f8"
+1687327062,"Death at First Glance","Bonus damage when aiming down sights on the opening shot of an attack. This bonus is preserved if the shot deals precision damage or strikes an elemental shield.","bbacdf6b8384e49be9ebc7967f117123"
+1687452232,"Liquid Coils","Slower-building charge for higher damage.
+  •  Increases impact damage
+  •  Slower charge time","01e813d983526b009b4e1c700a1d0081"
+1690446783,"EM Anomaly","A precision final blow with this weapon creates an implosion that pulls in nearby targets and damages them with an additional detonation.","330432950ec93d945170964a452f4ff7"
+1699724249,"Big-Game Hunter","Fires a massive heavy bolt that stuns unshielded combatants. Strong against [Stagger] Unstoppable Champions.","a13398c4e9766246686e4f562c15426a"
+1713206376,"Lightweight Frame","[Heavy Attack]  : Launch a heavy dash attack.
+Heavy attacks are stronger with full energy.","6db8cd21c2b3e6fffeb6f111d6c70dd2"
+1716000303,"Concussion Grenades","Grenades fired from this weapon emit a blast that staggers enemies.","60fd9d2e8d6e1cf20722e4db4507e9a7"
+1720528630,"Voltshot","Reloading this weapon after defeating a target overcharges this weapon for an improved short period of time, causing it to jolt on its next hit.","a71ffb1cb221ea64fa77ab473f8a3a61"
+1726251414,"Aggressive Frame","Powerful, heavy swings.
+[Heavy Attack]  : Slam.","5c4c7b8c580a97ede3981eceefb63540"
+1738338041,"Tilting at Windmills","Blocking damage with your shield increases movement speed for an improved duration while you are shielding.","212c0e69de61bbb0a9cfea024cf3a279"
+1748774930,"Zen Moment","Causing damage with this weapon reduces recoil and flinch over time. Improves base stability.","9650a58cd3a439bf3b53a53dbc8122a0"
+1749209109,"Relentless Strikes","[Light Attack]  : Landing three light-attack hits within a short time grants Sword ammo.","ad4bb4c9e36674ca879310b733a6e6a3"
+1753262462,"Golden Munitions","This magazine gains bonus ammo whenever a Golden Gun shot is acquired.","64532a0815032847af0c6d2f674f4c71"
+1754714824,"Kickstart","Gain bonus damage and charge rate during a slide after sprinting for a short duration.","7bebeaee2c1cdad96ea43f47999579af"
+1759472859,"Double Fire","Hard-hitting twin-fire rounds.","5c4c7b8c580a97ede3981eceefb63540"
+1771339417,"Firing Line","This weapon deals increased precision damage when near two or more allies.","92a5e8dbef32a414709d3196cb815d89"
+1771736209,"Enlightened Action","Dealing damage significantly improves reload speed and handling.","cee13d00e65346dacc05562c80f537da"
+1771897777,"Augmented Drum","Heavy, high capacity drum.
+  •  Greatly increases magazine size
+  •  Greatly decreases reload speed","03a5a8b81c9fc5575a8a9bda79e0f8db"
+1774574192,"Osmosis","Using your grenade ability partially refills the magazine and changes this weapon's damage type to match your grenade until you stow it.","22ca6e872824561b12e91517e1bde608"
+1782407750,"Close to Melee","Glaive projectile final blows improve Glaive melee damage. Glaive projectile or melee damage extends the duration.","80eb44e8ea45a374db9fffe497d8b345"
+1784898267,"Natural String","Simple balanced string.
+  •  Slightly increases accuracy
+  •  Slightly increases handling speed
+  •  Slightly increases stability","a2d4be4d60a82efbd0ce54f7bc1c3c3d"
+1791592647,"Explosive Shadow","Shoot tainted slugs that burrow into combatants. Stacking enough slugs causes them all to explode, stunning surviving combatants. Strong against  [Stagger] Unstoppable Champions.","39237486e7139ef841f103df6bc168af"
+1797707170,"Judgment","Sustained damage with this weapon envelops the target in a field that weakens and stuns them. Strong against [Disruption] Overload Champions.","60826b948354e578af5d1ea61eb8a64b"
+1799762209,"Cornered","Faster charge time or draw time when surrounded by combatants.","4155ec85e6c1e11b24d9986f21528d34"
+1817983009,"Chaos Reshaped","This weapon gains bonus damage while in combat for an extended time, activating faster. Remaining in combat for a slightly reduced duration rewards a larger damage bonus and periodically heals the wielder.","9570c12a7c71062dd668f519c977fc22"
+1820235745,"Subsistence","Defeating targets partially reloads the magazine from reserves.","eaa8f4295a71bf47df7ffd8599f7af4d"
+1821614984,"Slickdraw","Significantly increases handling, significantly decreases target acquisition.","7a8adea665184eea0fc7f6b6e62a2e4a"
+1833111001,"Inverse Relationship","When you deal damage with this weapon, it gains increased handling, takes reduced flinch, and movement speed is increased for a short time.
+
+When you are at reduced health, this weapon deals additional damage.","ad9061408244f8db1a40b677c2833b68"
+1840239774,"Fluted Barrel","Ultra-light barrel. 
+  •  Greatly increases handling speed
+  •  Slightly increases stability","260eba9dd149dbb94b1306c9ed4dd8db"
+1844523823,"Confined Launch","This weapon's launch parameters are particularly stable.
+  •  Greatly increases stability
+  •  Increases blast radius
+  •  Decreases projectile speed","0a783b44bf9fc49b4bed0a93dfa21d5d"
+1853177948,"Business Time","Sustained fire boosts range and rate of fire.","0680f3acd94793248a1baa1c873ca7fd"
+1863355414,"Mark of the Devourer","Rounds pierce targets and deal damage over time. Kills with this weapon leave behind Remnants.","5b864666de73dc8127f10022c19a3295"
+1866048759,"Hip-Fire Grip","Increases accuracy, stability, and precision hit targeting when firing from the hip.","e0265e60a4e29a96adf47a35b898fad4"
+1870851715,"Under-Over","Deals bonus damage to targets with overshields. Deals a small amount of bonus damage to combatant shields.","22587c092ade23b9ea1a48ba871e8788"
+1885400500,"Ricochet Rounds","Rounds ricochet off hard surfaces. 
+  •  Increases stability 
+  •  Slightly increases range","0a494d0442b32aff8c30d8b2b53561bd"
+1890422124,"Tap the Trigger","Grants a short period of increased stability and accuracy on initial trigger pull.","a7840da2970b4137a333fb187477dfe0"
+1900919151,"Edge of Action","Hybrid melee/ranged polearm with a frontal shield.
+Generates energy on dealing ranged damage.
+
+[Aim Down Sights]  : Raise shield, depleting energy over time
+[Melee]  : Kinetic melee combo","2ccfd5992fb00379612553280e5afef4"
+1903618525,"All at Once","Holding down the trigger marks targets within range and loads multiple bullets, which fire in a burst with increased stability on trigger release. Hitting a marked target with a fully charged burst will unravel them.","d3a47beff6e8421aeb788636a2061aa1"
+1905598698,"Full Court","Increases detonation damage as the projectile travels farther before exploding. Increases blast radius.","b3153ac6eb5bc0315ef2d4c11c327a84"
+1906147653,"Demolitionist","Final blows with this weapon generate an improved amount of grenade energy. Activating your grenade ability reloads this weapon from reserves.","da009697110e06b65d6f827b3b6d5f70"
+1926090090,"Crossfire HCS","Sharp Hand Cannon sight. 
+  •  Increases range
+  •  Slightly decreases stability
+  •  Slightly decreases handling speed","388a2235cfe0a6d9449aec30f8e962cd"
+1926090091,"Sureshot HCS","Pinpoint Hand Cannon sight. 
+  •  Increases range
+  •  Decreases stability
+  •  Decreases handling speed","388a2235cfe0a6d9449aec30f8e962cd"
+1926090092,"TrueSight HCS","Balanced Hand Cannon sight.
+  •  Slightly increases range
+  •  Slightly increases stability
+  •  Slightly increases handling speed","388a2235cfe0a6d9449aec30f8e962cd"
+1926090093,"HitMark HCS","Accurate Hand Cannon sight. 
+  •  Slightly increases range","388a2235cfe0a6d9449aec30f8e962cd"
+1926090094,"Fastdraw HCS","Agile Hand Cannon sight.
+  •  Greatly increases handling speed
+  •  Slightly increases stability","388a2235cfe0a6d9449aec30f8e962cd"
+1926090095,"SteadyHand HCS","Stable Hand Cannon sight. 
+  •  Increases stability
+  •  Increases handling speed","388a2235cfe0a6d9449aec30f8e962cd"
+1926441324,"Destabilizing Rounds","Final blows cause nearby targets to become volatile. Cooldown between activations reduced.","30edf77113d7d1d996fcc37b7ef2050b"
+1927916065,"Unplanned Reprieve","Fusion projectiles attach and detonate with a delayed Void blast.","348d8657575b5549b2994049f7aa954d"
+1934171651,"Supercooled Accelerator","Optimized for extended range.
+  •  Increases range
+  •  Slightly decreases reload speed
+  •  Slightly decreases handling speed","a5baa71112f0616ff78bbeacad7b10b2"
+1941225610,"Meganeura","Dragonfly deals more damage based on the number of precision hits dealt beforehand.","b5378713f840558b0641deb21bbe6c08"
+1942880504,"Slickdraw","Significantly increases handling, decreases target acquisition.","7a8adea665184eea0fc7f6b6e62a2e4a"
+1954620775,"Timed Payload","Projectiles attached to enemies explode after a short delay.","1d53281172f2568e4c840409f4151771"
+1955165503,"Rimestealer","Destroying a Stasis crystal or defeating a frozen target with this weapon grants you Frost Armor.","b88380f8b364c2743d53f12d4d98e273"
+1956005708,"Rapid-Fire Glaive","Hybrid melee/ranged heavy polearm with a frontal shield.
+Generates energy on dealing ranged damage.
+
+[Aim Down Sights]  : Raise shield, depleting energy over time.
+[Melee]  : Kinetic melee combo.","801d62d1f9783bee81d5700c54c24fda"
+1959135343,"Wolfpack Rounds","Powered heavy attacks cause nearby Sword-wielders to emit tracking missiles with every attack.","9581a5329d9eff75cb770180cc644ced"
+1961144892,"Quickdraw","This weapon can be drawn unbelievably fast. Reload is improved.","6893bb2c7ec7d13cb0d91ec9dd8b6500"
+1964414318,"Heavy Metal","While holding down the trigger, every fourth bullet becomes a heavy projectile that makes targets volatile on impact.","70a2e927e05cf9c3a971fa393c1d3cc3"
+1966281507,"Replenishing Aegis","Blocking damage partially reloads this weapon from reserves.","707a6279b07106593d3869b808005ac9"
+1967250736,"Command Frame II","Fires extended-range, heavy-caliber projectiles at a reduced rate of fire. Deals increased precision damage when aiming down sights.","7e49ea5c8547243fbd5e5d8361bcacb4"
+1967250737,"Command Frame III","Fires extended-range, heavy-caliber projectiles at a reduced rate of fire. Deals increased precision damage when aiming down sights.","7e49ea5c8547243fbd5e5d8361bcacb4"
+1967250742,"Command Frame IV","Fires extended-range, heavy-caliber projectiles at a reduced rate of fire. Deals increased precision damage when aiming down sights.","7e49ea5c8547243fbd5e5d8361bcacb4"
+1968497646,"Armor-Piercing Rounds","Rounds cause extra damage to combatants' shields and overpenetrate targets. 
+  •  Slightly increases range","b311ef00478243e21e2a5eec3a59f9d8"
+1986105578,"Aggressive Glaive","Hard-hitting, slow melee/ranged polearm with a frontal shield.
+Generates energy on dealing ranged damage.
+
+[Aim Down Sights]  : Raise shield, depleting energy over time
+[Melee]  : Kinetic melee combo","5c4c7b8c580a97ede3981eceefb63540"
+1992361643,"Anti-Taken Fletching","Specialized to fight Taken targets.
+  •  Increases accuracy","6163b0d60c3df52ed9f8d5924f683233"
+1992365846,"Loyal Moths","Final blows and rapid direct hits with this weapon create a loyal moth. The moth will seek out nearby targets and detonate, damaging and blinding them.","de507689fddd6520fce3fd068eec722b"
+1996142143,"Black Powder","This weapon's explosives are more effective.
+  •  Slightly increases blast radius
+  •  Decreases stability","19deadeab109c6a2907900d6fe0d6142"
+2000295559,"Turnabout","Using this weapon to break the shield of a combatant or a Guardian using their Super will grant you an overshield for an improved duration.","02786692ea8de976f059b01b4450a67e"
+2000464223,"Hail Storm","Direct hits with Stasis arrows freeze combatants and slow opposing Guardians. Stasis arrows that impact the environment create Stasis crystals.","8148975b0c706f0df71cfe921d29b340"
+2002547233,"High-Impact Reserves","Rounds at the end of the magazine deal more damage. Improved damage starts earlier in the magazine.","33ed859a08f2ccf643a1ac3c7f201966"
+2003108620,"Thin the Herd","Direct hits do increased damage to combatant shields and cause a volatile detonation. Dealing damage increases reload speed. Rapid final blows against grenade-damaged combatants refill the magazine.","70c9b768a0f554abd054fbe763955851"
+2005566727,"Nucleosynthetic Magazine","This magazine continuously draws ammo from reserves. The magazine also enables firing Arc projectiles that detonate on impact.","6ad748043fb39c2775183f3b2a0722e0"
+2010801679,"Ambitious Assassin","Overflows the magazine based on the number of rapid kills before reloading.","1f93b49c7f10b1be70083f913a3c5d63"
+2014892510,"Perpetual Motion Enhanced","This weapon gains bonus stability, handling, and reload speed while the wielder is in motion for a short duration.","8b9a4582016210723532907414759e69"
+2019952880,"Serve the Colony","Insectoid robot grenades quickly repopulate the magazine from reserves while the Colony is unequipped.","6c98aaf31c60dcd8929d83049746149b"
+2024652627,"Property: Irreducible","[Alternate Weapon Action] : Consume your grenade to load a large [projectile|shape|language] that generates an elemental explosion on impact.","88cd0ba0beed1e179e2e4d8bc206bf03"
+2030760728,"Energy Transfer","Guarding while receiving damage generates class ability energy.","dd7cb12c5aa30d4027c04be8c66f67e2"
+2037312142,"Controlled Burst","Landing every shot in a burst grants this weapon increased damage and reduced charge time for an improved duration.","9fd6e7728f412a69a653e5b49d752895"
+2039302152,"Slideways","Sliding partially reloads this weapon's magazine and temporarily boosts handling and stability.","531db7656c3f2ed054898e141d85b801"
+2048641572,"Destabilizing Rounds","Final blows cause nearby targets to become volatile.","30edf77113d7d1d996fcc37b7ef2050b"
+2054312700,"SC Holo","Häkke holo sights. Medium zoom. 
+  •  Greatly increases range 
+  •  Slightly decreases handling speed","d1bce45fa6dffed4648dea714a059bb9"
+2054312701,"SD Thermal","Häkke thermal imaging scope. Medium-zoom. Highlights enemy targets. 
+  •  Increases range","a156b24129d2253192ef7fd57a2be9a4"
+2057203855,"Precision Frame","Fires a long-range precision energy bolt. This weapon's recoil pattern is more predictably vertical.","e9dd736124e8ef94048901a279a5bb18"
+2073244114,"Lone Wolf","Improves aim assist, aim down sights speed, and airborne effectiveness. Increases these effects when there are no nearby allies.","4c244b847778a484726543e5c35935ef"
+2077819806,"Eager Edge","Gain increased Sword lunge distance immediately after switching to this weapon.","eddb478261ab53ec941b1a654e284c9d"
+2078097559,"Polymer Grip","This weapon's grip is made of lighter material.
+  •  Increases handling speed","c7111f59ce527eefed89ea29359b2960"
+2091001077,"Cluster Bomb","Rockets spawn cluster bombs upon detonation. Blast radius is increased.","37974e92bb4f48bd438ba4757f5df851"
+2094939076,"Charged with Blight","Precision hits drain combatants' life force and charge up a ball of Darkness. [Alternate Weapon Action]  and then fire to unleash the blight projectile, shrouding combatants in Darkness and temporarily blinding them.","549de54ac92d23e8d020de98d9c6dd08"
+2108556049,"Lightweight Frame","Recurve Bow. Draw quickly and move faster while this weapon is equipped. 
+[Reload]  : Use while drawn to cancel the shot.","b57de72ef16609f38557f1739e43b9c7"
+2109543898,"Desperate Measures","Weapon final blows grant bonus damage. Melee and grenade final blows grant a larger damage bonus that can stack.","25692d31f4963c07c3a82aba508b52b6"
+2117683199,"Full Auto Trigger System","Holding down the trigger will fire this weapon at full auto.","85059dae97dea2121091a0f787e20985"
+2121086290,"Rat Pack","This fully automatic weapon becomes stronger when nearby allies also have it equipped. Stacks up to 6 times.","7b0921d4805a8b8164d9e72d8affdd42"
+2130042297,"Taken Predator","Bonus damage against Taken enemies and Gambit invaders.","e9a632c128152498b2f35eed86e131cf"
+2135276011,"Eyes Up, Guardian","Collecting Orbs of Power strengthens this weapon's next several ricochet shots, providing more damage and more bounces between targets.","9af6410bfb765616b76ee7cf2823e132"
+2139363611,"Well-Rounded","Throwing a grenade or hitting a target with a charged melee grants an improved stacking bonus to weapon stability, handling, and range.
+
+Using a Super grants maximum stacks.","29d63faf15876cf3a9a382aa857b608b"
+2140591236,"High Ground","Final blows with this weapon grant stacks of bonus damage. Attacking targets from higher ground immediately grants the maximum number of stacks. Increases reload.","5ee6f65d7af0a9acf6f22e3254e85283"
+2144092201,"Noble Rounds","Kills with this weapon leave behind Remnants. Absorbing a Remnant converts your next hipfired shot into an ally-seeking Noble Round and partially refills the magazine.","5c1af0c657be0ac24877564c3dbcdaa2"
